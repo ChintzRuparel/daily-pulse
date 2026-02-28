@@ -2,57 +2,43 @@ name: 🌍 Daily Pulse
 
 on:
   schedule:
-    # Runs every day at 07:00 UTC
-    - cron: "0 7 * * *"
-  workflow_dispatch:  # also lets you trigger it manually from GitHub UI anytime
+    # Fires every hour — the Python randomizer decides if this hour actually commits
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write   # needed to push commits back to the repo
+  contents: write
 
 jobs:
   update:
     name: Fetch & Commit Daily Data
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
-      # ── 1. Check out repo ──────────────────────────────────────────────────
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── 2. Set up Python ───────────────────────────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # ── 3. Run the data fetcher ────────────────────────────────────────────
-      - name: Fetch daily data
-        run: python scripts/fetch_daily.py
+      - name: Run randomizer & maybe fetch data
+        run: python scripts/randomizer.py
 
-      # ── 4. Commit & push if anything changed ──────────────────────────────
-      - name: Commit and push
+      - name: Commit and push (if randomizer said yes)
         run: |
           git config user.name  "Daily Pulse Bot"
           git config user.email "daily-pulse-bot@users.noreply.github.com"
-
-          git add data/ README.md
-
-          # Only commit if there are actual changes
+          git add -A
           if git diff --cached --quiet; then
-            echo "Nothing changed today — skipping commit."
+            echo "Skipped this hour (by design)."
           else
-            DATE=$(date -u +"%Y-%m-%d")
-            git commit -m "data: daily snapshot ${DATE}
-
-          - NASA APOD updated
-          - Trending GitHub repos refreshed
-          - Crypto prices (BTC, ETH, SOL) snapshotted
-          - Quote of the day updated
-          - Fun fact of the day"
-
+            MSG=$(cat /tmp/commit_msg.txt 2>/dev/null || echo "data: update snapshot")
+            git commit -m "$MSG"
             git push
-            echo "✅ Committed and pushed!"
+            echo "Committed: $MSG"
           fi
