@@ -97,6 +97,7 @@ payload = {
 }
 
 out_path = f"data/{TODAY}.json"
+os.makedirs("data", exist_ok=True)
 with open(out_path, "w") as f:
     json.dump(payload, f, indent=2, ensure_ascii=False)
 print(f"✅  Wrote {out_path}")
