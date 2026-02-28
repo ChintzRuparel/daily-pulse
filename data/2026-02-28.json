@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-02-28 09:01 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-02-28",
+    "title": "Lunar Occultation of Mercury",
+    "explanation": "Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. …",
+    "url": "https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 238721,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 149789,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
+      "stars": 126116,
+      "language": null,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 112770,
+      "language": "TypeScript",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "description": "",
+      "stars": 101793,
+      "language": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Stress happens when the mind resists what is.",
+    "author": "Dan Millman"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 63462,
+      "change_24h": -6.59
+    },
+    "ethereum": {
+      "usd": 1851.43,
+      "change_24h": -8.96
+    },
+    "solana": {
+      "usd": 77.96,
+      "change_24h": -10.98
+    }
+  },
+  "fun_fact": "The first license plate on a car in the United States was issued in Denver, Colorado in 1908."
+}
