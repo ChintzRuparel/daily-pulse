@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-03-02 09:45 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-03-02",
+    "title": "The Dusty Surroundings of Orion and the Pleiades",
+    "explanation": "How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with filaments of normally faint dust and gas.  This image contains the Pleiades star cluster, Barnard's Loop, Orion Nebula, Aldebaran, Betelgeuse, Witch Head Nebula, Eridanus Loop, and …",
+    "url": "https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 245492,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 150161,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
+      "stars": 127060,
+      "language": null,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 113984,
+      "language": "TypeScript",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "description": "",
+      "stars": 101823,
+      "language": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.",
+    "author": "Honore de Balzac"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 66346,
+      "change_24h": -0.01
+    },
+    "ethereum": {
+      "usd": 1956.03,
+      "change_24h": -1.27
+    },
+    "solana": {
+      "usd": 83.8,
+      "change_24h": -1.49
+    }
+  },
+  "fun_fact": "In the 17th century, the value of pi was known to 35 decimal places. Today, to 1.2411 trillion."
+}
