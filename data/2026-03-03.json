@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-03 08:37 UTC",
+  "fetched_at": "2026-03-03 10:36 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-03",
     "title": "Flying over the North Pole of Mars",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 250978,
+      "stars": 251759,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 150361,
+      "stars": 150391,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 127411,
+      "stars": 127456,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 114671,
+      "stars": 114764,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "deepseek-ai/DeepSeek-V3",
       "description": "",
-      "stars": 101845,
+      "stars": 101852,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3"
     }
   ],
   "quote_of_the_day": {
-    "text": "I must also have a dark side if I am to be whole.",
-    "author": "Carl Jung"
+    "text": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 67670,
-      "change_24h": 2.83
+      "usd": 66490,
+      "change_24h": 0.28
     },
     "ethereum": {
-      "usd": 1979.35,
-      "change_24h": 2.48
+      "usd": 1951.15,
+      "change_24h": -0.09
     },
     "solana": {
-      "usd": 84.86,
-      "change_24h": 2.43
+      "usd": 84.0,
+      "change_24h": 0.2
     }
   },
-  "fun_fact": "All polar bears are left-handed."
+  "fun_fact": "The average human head weighs about 8 pounds."
 }
