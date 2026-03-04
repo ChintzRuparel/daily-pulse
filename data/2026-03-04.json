@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-04 20:29 UTC",
+  "fetched_at": "2026-03-04 21:32 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-04",
     "title": "Shapley 1: An Annular Planetary Nebula",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 259944,
+      "stars": 259980,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 150666,
+      "stars": 150671,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 127856,
+      "stars": 127860,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 115842,
+      "stars": 115858,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "deepseek-ai/DeepSeek-V3",
       "description": "",
-      "stars": 101885,
+      "stars": 101884,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3"
     }
   ],
   "quote_of_the_day": {
-    "text": "Today you are you, that is truer than true. There is no one alive who is you-er than you.",
-    "author": "Dr. Seuss"
+    "text": "It's the little things done consistently over time, straight from your heart, that have the greatest impact.",
+    "author": "Unknown"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 73483,
-      "change_24h": 7.55
+      "usd": 73157,
+      "change_24h": 7.7
     },
     "ethereum": {
-      "usd": 2172.92,
-      "change_24h": 9.54
+      "usd": 2148.94,
+      "change_24h": 9.48
     },
     "solana": {
-      "usd": 93.4,
-      "change_24h": 10.02
+      "usd": 92.59,
+      "change_24h": 9.71
     }
   },
-  "fun_fact": "The surface of the Earth is about 60% water and 10% ice."
+  "fun_fact": "“The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English."
 }
