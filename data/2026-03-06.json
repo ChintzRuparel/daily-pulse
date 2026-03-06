@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-06 14:35 UTC",
+  "fetched_at": "2026-03-06 19:32 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-06",
     "title": "The Astrosphere of HD 61005",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 269832,
+      "stars": 270643,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 150964,
+      "stars": 150996,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 128817,
+      "stars": 128947,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 117168,
+      "stars": 117299,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "deepseek-ai/DeepSeek-V3",
       "description": "",
-      "stars": 101908,
+      "stars": 101912,
       "language": "Python",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3"
     }
   ],
   "quote_of_the_day": {
-    "text": "Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.",
-    "author": "Celestine Chua"
+    "text": "There is nothing more truly artistic than to love people.",
+    "author": "Vincent van Gogh"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 68890,
-      "change_24h": -5.23
+      "usd": 68211,
+      "change_24h": -3.98
     },
     "ethereum": {
-      "usd": 2003.09,
-      "change_24h": -5.42
+      "usd": 1985.81,
+      "change_24h": -4.36
     },
     "solana": {
-      "usd": 85.12,
-      "change_24h": -6.33
+      "usd": 85.56,
+      "change_24h": -3.9
     }
   },
-  "fun_fact": "The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building."
+  "fun_fact": "The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times."
 }
