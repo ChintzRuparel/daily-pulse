@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-03-07
+## 📅 Latest snapshot — 2026-03-08
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Two Eclipses of Saros 133**
-Centered on maximum eclipse, these two total lunar eclipse sequences look almost identical. Yet the one shown on top is composed of images recorded in February 2008, while at the bottom is the recent March 2026 total eclipse of the Moon. Why are they so similar? Because these two total lunar eclipses are from the same Saros cycle. The Saros cycle was discovered historically from observations of th…
-[View full image →](https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg)
+**The Aurora Tree**
+Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leav…
+[View full image →](https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Leadership is solving problems"*
-> — Colin Powell
+> *"One never does wrong by doing right."*
+> — Norman Vincent Peale
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $67,945 | 🔴 -3.72% |
-| Ethereum | $1,984.0 | 🔴 -3.82% |
-| Solana | $84.55 | 🔴 -3.67% |
+| Bitcoin | $67,763 | 🔴 -0.28% |
+| Ethereum | $1,966.93 | 🔴 -0.87% |
+| Solana | $83.18 | 🔴 -1.63% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 273,175 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 151,088 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 129,131 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 117,575 |
-| [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python | 101,923 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 277,656 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 151,307 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 129,402 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 118,052 |
+| [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python | 101,933 |
 
 ---
 
 ### 🎲 Fun Fact
-The past-tense of the English word “dare” is “durst”
+28% of Africa is classified as wilderness. In North America, its 38%.
 
 ---
 
-*Last updated: 2026-03-07 09:26 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-03-08 09:27 UTC · [See all daily snapshots](data/)*
