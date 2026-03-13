@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit and push (if randomizer said yes)
         run: |
-          git config user.name  "Daily Pulse Bot"
-          git config user.email "daily-pulse-bot@users.noreply.github.com"
+          git config user.name  "ChintzRuparel"
+          git config user.email "chintz0952@gmail.com"
           git add -A
           if git diff --cached --quiet; then
             echo "Skipped this hour (by design)."
