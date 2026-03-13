@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-03-08
+## 📅 Latest snapshot — 2026-03-13
 
 ### 🔭 NASA Astronomy Picture of the Day
-**The Aurora Tree**
-Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leav…
-[View full image →](https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg)
+**Toolondo Totality Trails**
+In this composited night skyscape, stacked exposures trace graceful star trails above Lake Toolondo, Victoria, Australia, planet Earth. Captured while the lunar eclipse of March 3 was in progress, the exposures used were made during the hour-long total eclipse phase. So faint star trails are easily visible along with the trail of the reddened Moon in the eclipse-darkened skies above the lake and t…
+[View full image →](https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Pleasure in the job puts perfection in the work."*
-> — Aristotle
+> *"Act the way you want to be and soon you'll be the way you act."*
+> — Les Brown
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $67,143 | 🔴 -1.01% |
-| Ethereum | $1,940.97 | 🔴 -1.96% |
-| Solana | $81.76 | 🔴 -2.43% |
+| Bitcoin | $71,259 | 🟢 +1.84% |
+| Ethereum | $2,104.61 | 🟢 +2.41% |
+| Solana | $88.89 | 🟢 +3.11% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 279,781 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 151,347 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 129,503 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 118,274 |
-| [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python | 101,935 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 310,441 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 152,178 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 130,724 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 121,560 |
+| [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python | 102,120 |
 
 ---
 
 ### 🎲 Fun Fact
-CBS` "60 Minutes" is the only TV show without a theme song/music.
+A snail can sleep for 3 years.
 
 ---
 
-*Last updated: 2026-03-08 17:20 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-03-13 18:38 UTC · [See all daily snapshots](data/)*
