@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-03-14 18:35 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-03-14",
+    "title": "A Year for K2-315b",
+    "explanation": "Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremel…",
+    "url": "https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 312714,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 152359,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
+      "stars": 130970,
+      "language": null,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 122093,
+      "language": "TypeScript",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "description": "",
+      "stars": 102141,
+      "language": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "We will outstretch the hand if you unclench your fist.",
+    "author": "Barack Obama"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 70654,
+      "change_24h": -0.84
+    },
+    "ethereum": {
+      "usd": 2076.13,
+      "change_24h": -1.37
+    },
+    "solana": {
+      "usd": 86.96,
+      "change_24h": -2.12
+    }
+  },
+  "fun_fact": "\"Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding.\" Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles."
+}
