@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-03-17 11:41 UTC",
+  "fetched_at": "2026-03-17 16:03 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-03-17",
+    "title": "The Tadpoles of IC 410",
+    "explanation": "This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by f…",
+    "url": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 319112,
+      "stars": 319671,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 152801,
+      "stars": 152835,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 131634,
+      "stars": 131677,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 123835,
+      "stars": 123967,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "stars": 102509,
+      "stars": 102559,
       "language": "Python",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     }
   ],
   "quote_of_the_day": {
-    "text": "Life is a long lesson in humility. ",
-    "author": "James Matthew Barrie"
+    "text": "Gratitude is the fairest blossom which springs from the soul.",
+    "author": "Henry Ward Beecher"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 74107,
-      "change_24h": 0.66
+      "usd": 73963,
+      "change_24h": 0.93
     },
     "ethereum": {
-      "usd": 2329.37,
-      "change_24h": 2.59
+      "usd": 2316.9,
+      "change_24h": 1.85
     },
     "solana": {
-      "usd": 93.74,
-      "change_24h": -0.0
+      "usd": 93.83,
+      "change_24h": 0.57
     }
   },
-  "fun_fact": "Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5."
+  "fun_fact": "Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”)."
 }
