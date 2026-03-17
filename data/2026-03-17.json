@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-03-17 10:49 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-03-17",
+    "title": "The Tadpoles of IC 410",
+    "explanation": "This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by f…",
+    "url": "https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 318995,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 152792,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
+      "stars": 131626,
+      "language": null,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 123819,
+      "language": "TypeScript",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 102503,
+      "language": "Python",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Find the game where you can win, and then commit your life to playing it; and play to win.",
+    "author": "Robert Kiyosaki"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 73760,
+      "change_24h": 0.58
+    },
+    "ethereum": {
+      "usd": 2309.83,
+      "change_24h": 2.03
+    },
+    "solana": {
+      "usd": 93.53,
+      "change_24h": 0.02
+    }
+  },
+  "fun_fact": "“The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English."
+}

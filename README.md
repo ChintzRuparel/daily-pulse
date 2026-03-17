@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-03-14
+## 📅 Latest snapshot — 2026-03-17
 
 ### 🔭 NASA Astronomy Picture of the Day
-**A Year for K2-315b**
-Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremel…
-[View full image →](https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg)
+**The Tadpoles of IC 410**
+This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by f…
+[View full image →](https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver1024c.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"We will outstretch the hand if you unclench your fist."*
-> — Barack Obama
+> *"Find the game where you can win, and then commit your life to playing it; and play to win."*
+> — Robert Kiyosaki
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $70,654 | 🔴 -0.84% |
-| Ethereum | $2,076.13 | 🔴 -1.37% |
-| Solana | $86.96 | 🔴 -2.12% |
+| Bitcoin | $73,760 | 🟢 +0.58% |
+| Ethereum | $2,309.83 | 🟢 +2.03% |
+| Solana | $93.53 | 🟢 +0.02% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 312,714 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 152,359 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 130,970 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 122,093 |
-| [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | Python | 102,141 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 318,995 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 152,792 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 131,626 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 123,819 |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 102,503 |
 
 ---
 
 ### 🎲 Fun Fact
-"Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.
+“The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English.
 
 ---
 
-*Last updated: 2026-03-14 18:35 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-03-17 10:49 UTC · [See all daily snapshots](data/)*
