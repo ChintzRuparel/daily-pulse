@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-18 18:01 UTC",
+  "fetched_at": "2026-03-18 20:33 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-18",
     "title": "Cygnus and the Solitary Tree",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 322589,
+      "stars": 322761,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 153005,
+      "stars": 153021,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 131891,
+      "stars": 131905,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 124665,
+      "stars": 124715,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "stars": 102712,
+      "stars": 102725,
       "language": "Python",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     }
   ],
   "quote_of_the_day": {
-    "text": "Circumstances do not make the man, they reveal him.",
-    "author": "James Allen"
+    "text": "Not how long, but how well you have lived is the main thing.",
+    "author": "Seneca"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 71628,
-      "change_24h": -3.95
+      "usd": 71059,
+      "change_24h": -4.74
     },
     "ethereum": {
-      "usd": 2204.08,
-      "change_24h": -5.78
+      "usd": 2180.09,
+      "change_24h": -6.31
     },
     "solana": {
-      "usd": 89.97,
-      "change_24h": -4.78
+      "usd": 89.54,
+      "change_24h": -5.62
     }
   },
-  "fun_fact": "Ancient Egyptian priests would pluck every hair from their bodies."
+  "fun_fact": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods."
 }
