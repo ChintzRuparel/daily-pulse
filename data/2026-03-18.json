@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-03-18 16:57 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-03-18",
+    "title": "Cygnus and the Solitary Tree",
+    "explanation": "A lone tree stands in a quiet meadow in Guadalajara, Spain, silhouetted against the Cygnus region rising above like flames in the night sky.  This deep night skyscape is a composite of exposures that reveals a range of brightness and color human eyes can't quite see on their own. Spanning over a thousand times the angular size of the full moon, Cygnus sets the sky afire with active star formation …",
+    "url": "https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 322500,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 153002,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
+      "stars": 131882,
+      "language": null,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 124640,
+      "language": "TypeScript",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 102709,
+      "language": "Python",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.",
+    "author": "Dan Millman"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 71372,
+      "change_24h": -3.73
+    },
+    "ethereum": {
+      "usd": 2184.52,
+      "change_24h": -6.08
+    },
+    "solana": {
+      "usd": 89.04,
+      "change_24h": -5.6
+    }
+  },
+  "fun_fact": "Barbie`s full name is Barbara Millicent Roberts."
+}
