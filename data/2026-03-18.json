@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-18 20:33 UTC",
+  "fetched_at": "2026-03-18 21:35 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-18",
     "title": "Cygnus and the Solitary Tree",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 322761,
+      "stars": 322809,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 153021,
+      "stars": 153026,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 131905,
+      "stars": 131908,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 124715,
+      "stars": 124734,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-      "stars": 102725,
+      "stars": 102726,
       "language": "Python",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     }
   ],
   "quote_of_the_day": {
-    "text": "Not how long, but how well you have lived is the main thing.",
-    "author": "Seneca"
+    "text": "The most important thing in communication is to hear what isn't being said.",
+    "author": "Peter Drucker"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 71059,
-      "change_24h": -4.74
+      "usd": 71264,
+      "change_24h": -4.47
     },
     "ethereum": {
-      "usd": 2180.09,
-      "change_24h": -6.31
+      "usd": 2197.67,
+      "change_24h": -5.94
     },
     "solana": {
-      "usd": 89.54,
-      "change_24h": -5.62
+      "usd": 90.29,
+      "change_24h": -5.12
     }
   },
-  "fun_fact": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods."
+  "fun_fact": "Camels chew in a figure 8 pattern."
 }
