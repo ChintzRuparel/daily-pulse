@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-22 19:23 UTC",
+  "fetched_at": "2026-03-22 20:24 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-22",
     "title": "Leaving Earth",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 330010,
+      "stars": 330068,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 153753,
+      "stars": 153758,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 132657,
+      "stars": 132672,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 127958,
+      "stars": 127980,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 104837,
+      "stars": 104901,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "You must be willing to do what others won't do, to have what others won't have.",
-    "author": "Les Brown"
+    "text": "What are we doing here, that is the question.",
+    "author": "Samuel Beckett"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 68369,
-      "change_24h": -2.91
+      "usd": 68440,
+      "change_24h": -2.83
     },
     "ethereum": {
-      "usd": 2061.71,
-      "change_24h": -4.19
+      "usd": 2069.73,
+      "change_24h": -3.91
     },
     "solana": {
-      "usd": 86.73,
-      "change_24h": -3.45
+      "usd": 87.07,
+      "change_24h": -3.12
     }
   },
-  "fun_fact": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death."
+  "fun_fact": "Arizona was the last of the 48 adjoining continental states to enter the Union."
 }
