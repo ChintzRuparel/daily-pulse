@@ -12,34 +12,34 @@ What would it look like to leave planet Earth? Such an event was recorded visual
 ---
 
 ### 💬 Quote of the Day
-> *"It's the unknown we fear when we look upon death and darkness, nothing more."*
-> — Albus Dumbledore
+> *"You must be willing to do what others won't do, to have what others won't have."*
+> — Les Brown
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $68,646 | 🔴 -2.74% |
-| Ethereum | $2,078.14 | 🔴 -3.43% |
-| Solana | $87.08 | 🔴 -3.13% |
+| Bitcoin | $68,369 | 🔴 -2.91% |
+| Ethereum | $2,061.71 | 🔴 -4.19% |
+| Solana | $86.73 | 🔴 -3.45% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 329,157 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 153,669 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 132,581 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 127,605 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 103,918 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 330,010 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 153,753 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 132,657 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 127,958 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 104,837 |
 
 ---
 
 ### 🎲 Fun Fact
-Deborah Winger did the voice of E.T.
+If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.
 
 ---
 
-*Last updated: 2026-03-22 08:31 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-03-22 19:23 UTC · [See all daily snapshots](data/)*
