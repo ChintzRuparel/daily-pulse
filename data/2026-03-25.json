@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-03-25 08:48 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-03-25",
+    "title": "The Guardians of Rapa Nui beneath the Milky Way",
+    "explanation": "In the words of today's astrophotographer, Rositsa Dimitrova, \"What have these silent sentinels watched pass across the sky?\" The volcanic mo'ai (meaning statue) of Ahu Tongariki stand guard over Rapa Nui (Isla de Pascua, Easter Island), a Polynesian island (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness…",
+    "url": "https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 335112,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 154117,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
+      "stars": 133155,
+      "language": null,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 129927,
+      "language": "TypeScript",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 111471,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "You have as much laughter as you have faith.",
+    "author": "Martin Luther"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 71381,
+      "change_24h": 0.5
+    },
+    "ethereum": {
+      "usd": 2180.05,
+      "change_24h": 1.0
+    },
+    "solana": {
+      "usd": 92.49,
+      "change_24h": 0.83
+    }
+  },
+  "fun_fact": "What is called a \"French kiss\" in the English speaking world is known as an \"English kiss\" in France."
+}

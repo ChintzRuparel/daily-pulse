@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-03-22
+## 📅 Latest snapshot — 2026-03-25
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Leaving Earth**
-What would it look like to leave planet Earth? Such an event was recorded visually in great detail by the MESSENGER spacecraft as it swung back past the Earth in 2005 on its way in toward the planet Mercury. Earth can be seen rotating in this time-lapse video, as it recedes into the distance. The sunlit half of Earth is so bright that background stars are not visible. The robotic MESSENGER spacecr…
-[View full image →](https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4)
+**The Guardians of Rapa Nui beneath the Milky Way**
+In the words of today's astrophotographer, Rositsa Dimitrova, "What have these silent sentinels watched pass across the sky?" The volcanic mo'ai (meaning statue) of Ahu Tongariki stand guard over Rapa Nui (Isla de Pascua, Easter Island), a Polynesian island (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness…
+[View full image →](https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"What are we doing here, that is the question."*
-> — Samuel Beckett
+> *"You have as much laughter as you have faith."*
+> — Martin Luther
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $68,440 | 🔴 -2.83% |
-| Ethereum | $2,069.73 | 🔴 -3.91% |
-| Solana | $87.07 | 🔴 -3.12% |
+| Bitcoin | $71,381 | 🟢 +0.50% |
+| Ethereum | $2,180.05 | 🟢 +1.00% |
+| Solana | $92.49 | 🟢 +0.83% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 330,068 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 153,758 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 132,672 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 127,980 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 104,901 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 335,112 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 154,117 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 133,155 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 129,927 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 111,471 |
 
 ---
 
 ### 🎲 Fun Fact
-Arizona was the last of the 48 adjoining continental states to enter the Union.
+What is called a "French kiss" in the English speaking world is known as an "English kiss" in France.
 
 ---
 
-*Last updated: 2026-03-22 20:24 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-03-25 08:48 UTC · [See all daily snapshots](data/)*
