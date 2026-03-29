@@ -12,34 +12,34 @@ What are these Earthlings trying to tell us?  The featured message was broadcast
 ---
 
 ### 💬 Quote of the Day
-> *"Man must use what he has, not hope for what is not."*
-> — G.I. Gurdjieff
+> *"The way to change others' minds is with affection, and not anger."*
+> — Dalai Lama
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $66,365 | 🔴 -0.97% |
-| Ethereum | $1,988.2 | 🔴 -1.94% |
-| Solana | $81.81 | 🔴 -2.50% |
+| Bitcoin | $66,146 | 🔴 -0.91% |
+| Ethereum | $1,988.4 | 🔴 -1.60% |
+| Solana | $81.36 | 🔴 -2.38% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 340,188 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 154,798 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 133,612 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 132,222 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 122,232 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 340,288 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 154,809 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 133,621 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 132,263 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 122,416 |
 
 ---
 
 ### 🎲 Fun Fact
-Canadian researchers have found that Einstein's brain was 15% wider than normal.
+Poland is the "stolen car capital of the world".
 
 ---
 
-*Last updated: 2026-03-29 15:28 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-03-29 17:27 UTC · [See all daily snapshots](data/)*

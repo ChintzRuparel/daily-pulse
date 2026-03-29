@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29 15:28 UTC",
+  "fetched_at": "2026-03-29 17:27 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-29",
     "title": "A Message from Earth",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 340188,
+      "stars": 340288,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 154798,
+      "stars": 154809,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 133612,
+      "stars": 133621,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 132222,
+      "stars": 132263,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 122232,
+      "stars": 122416,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "Man must use what he has, not hope for what is not.",
-    "author": "G.I. Gurdjieff"
+    "text": "The way to change others' minds is with affection, and not anger.",
+    "author": "Dalai Lama"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 66365,
-      "change_24h": -0.97
+      "usd": 66146,
+      "change_24h": -0.91
     },
     "ethereum": {
-      "usd": 1988.2,
-      "change_24h": -1.94
+      "usd": 1988.4,
+      "change_24h": -1.6
     },
     "solana": {
-      "usd": 81.81,
-      "change_24h": -2.5
+      "usd": 81.36,
+      "change_24h": -2.38
     }
   },
-  "fun_fact": "Canadian researchers have found that Einstein's brain was 15% wider than normal."
+  "fun_fact": "Poland is the \"stolen car capital of the world\"."
 }
