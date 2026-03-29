@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29 18:38 UTC",
+  "fetched_at": "2026-03-29 22:27 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-29",
     "title": "A Message from Earth",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 340330,
+      "stars": 340449,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 154809,
+      "stars": 154822,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 133627,
+      "stars": 133630,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 132289,
+      "stars": 132350,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 122495,
+      "stars": 122724,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "The ego wants comfort and certainty. The soul wants to live fully.",
-    "author": "Maxime Lagace"
+    "text": "When your intuition is strong, follow it.",
+    "author": "Lolly Daskal"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 66388,
-      "change_24h": -0.62
+      "usd": 66334,
+      "change_24h": -0.55
     },
     "ethereum": {
-      "usd": 1993.95,
-      "change_24h": -1.28
+      "usd": 1993.31,
+      "change_24h": -0.83
     },
     "solana": {
-      "usd": 81.53,
-      "change_24h": -2.17
+      "usd": 81.72,
+      "change_24h": -1.25
     }
   },
-  "fun_fact": "Elephants are the only mammals that cannot jump."
+  "fun_fact": "Hedenophobic means fear of pleasure."
 }
