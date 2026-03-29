@@ -1,66 +1,62 @@
 {
-  "fetched_at": "2026-03-29 09:34 UTC",
+  "fetched_at": "2026-03-29 11:26 UTC",
   "astronomy_picture_of_the_day": {
-    "date": "2026-03-29",
-    "title": "A Message from Earth",
-    "explanation": "What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity …",
-    "url": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg",
-    "media_type": "image"
+    "error": "unavailable"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 339888,
+      "stars": 339954,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 154735,
+      "stars": 154757,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 133580,
+      "stars": 133584,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 132106,
+      "stars": 132131,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 121582,
+      "stars": 121758,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.",
-    "author": "Unknown"
+    "text": "You have to make time, even for something as universal as staring at the stars.",
+    "author": "W.P. Kinsella"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 66638,
-      "change_24h": 0.55
+      "usd": 66758,
+      "change_24h": 0.75
     },
     "ethereum": {
-      "usd": 2001.79,
-      "change_24h": 0.25
+      "usd": 2001.61,
+      "change_24h": 0.29
     },
     "solana": {
-      "usd": 82.33,
-      "change_24h": -0.9
+      "usd": 82.49,
+      "change_24h": -0.5
     }
   },
-  "fun_fact": "Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour."
+  "fun_fact": "Shakespeare invented the word \"assassination\" and \"bump.\""
 }
