@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-03-29 11:26 UTC",
+  "fetched_at": "2026-03-29 13:51 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-03-29",
+    "title": "A Message from Earth",
+    "explanation": "What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity …",
+    "url": "https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 339954,
+      "stars": 340086,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 154757,
+      "stars": 154774,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 133584,
+      "stars": 133603,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 132131,
+      "stars": 132191,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 121758,
+      "stars": 122022,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "You have to make time, even for something as universal as staring at the stars.",
-    "author": "W.P. Kinsella"
+    "text": "Always focus on the front windshield and not the rear view mirror.",
+    "author": "Colin Powell"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 66758,
-      "change_24h": 0.75
+      "usd": 66564,
+      "change_24h": -0.39
     },
     "ethereum": {
-      "usd": 2001.61,
-      "change_24h": 0.29
+      "usd": 1989.69,
+      "change_24h": -1.74
     },
     "solana": {
-      "usd": 82.49,
-      "change_24h": -0.5
+      "usd": 81.94,
+      "change_24h": -1.75
     }
   },
-  "fun_fact": "Shakespeare invented the word \"assassination\" and \"bump.\""
+  "fun_fact": "To \"testify\" was based on men in the Roman court swearing to a statement made by swearing on their testicles."
 }
