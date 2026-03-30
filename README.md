@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-03-29
+## 📅 Latest snapshot — 2026-03-30
 
 ### 🔭 NASA Astronomy Picture of the Day
-**A Message from Earth**
-What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity …
-[View full image →](https://apod.nasa.gov/apod/image/2603/Message_Arecibo_960.jpg)
+**Peculiar Elliptical Galaxy Centaurus A**
+What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured i…
+[View full image →](https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"When your intuition is strong, follow it."*
-> — Lolly Daskal
+> *"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."*
+> — Alan Watts
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $66,334 | 🔴 -0.55% |
-| Ethereum | $1,993.31 | 🔴 -0.83% |
-| Solana | $81.72 | 🔴 -1.25% |
+| Bitcoin | $66,597 | 🟢 +0.03% |
+| Ethereum | $2,022.34 | 🟢 +1.06% |
+| Solana | $82.67 | 🟢 +0.95% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 340,449 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 154,822 |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 133,630 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 132,350 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 122,724 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 341,694 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 154,963 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | — | 133,734 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 132,922 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 125,369 |
 
 ---
 
 ### 🎲 Fun Fact
-Hedenophobic means fear of pleasure.
+Every US president has worn glasses (just not always in public).
 
 ---
 
-*Last updated: 2026-03-29 22:27 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-03-30 20:41 UTC · [See all daily snapshots](data/)*
