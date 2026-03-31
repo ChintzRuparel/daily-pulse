@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-31 11:46 UTC",
+  "fetched_at": "2026-03-31 16:10 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-03-31",
     "title": "Uranus's Largest Moon: Titania",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 342603,
+      "stars": 342889,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 155068,
+      "stars": 155094,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 133804,
+      "stars": 133846,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 133353,
+      "stars": 133541,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 127115,
+      "stars": 127634,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "Focus on how far you have come in life rather than looking at the accomplishments of others.",
-    "author": "Lolly Daskal"
+    "text": "To earn more you must learn more.",
+    "author": "Brian Tracy"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 66673,
-      "change_24h": -1.39
+      "usd": 66909,
+      "change_24h": -0.72
     },
     "ethereum": {
-      "usd": 2040.46,
-      "change_24h": -1.36
+      "usd": 2062.66,
+      "change_24h": -0.26
     },
     "solana": {
-      "usd": 80.67,
-      "change_24h": -4.08
+      "usd": 81.01,
+      "change_24h": -3.84
     }
   },
-  "fun_fact": "There are a million ants for every person on Earth."
+  "fun_fact": "To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly."
 }
