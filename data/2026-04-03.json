@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03 16:36 UTC",
+  "fetched_at": "2026-04-03 17:31 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-04-03",
     "title": "Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 347015,
+      "stars": 347050,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 155576,
+      "stars": 155578,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 136423,
+      "stars": 136456,
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 135669,
+      "stars": 135738,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 134223,
+      "stars": 134228,
       "language": null,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     }
   ],
   "quote_of_the_day": {
-    "text": "Intelligence is the ability to adapt to change.",
-    "author": "Stephen Hawking"
+    "text": "Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.",
+    "author": "Zen Proverb"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 66955,
-      "change_24h": -0.18
+      "usd": 66881,
+      "change_24h": -0.33
     },
     "ethereum": {
-      "usd": 2053.31,
-      "change_24h": -0.59
+      "usd": 2047.81,
+      "change_24h": -0.69
     },
     "solana": {
-      "usd": 80.49,
-      "change_24h": 1.7
+      "usd": 80.1,
+      "change_24h": 0.76
     }
   },
-  "fun_fact": "Right handed people live, on average, nine years longer than left handed people do."
+  "fun_fact": "In Japan, watermelons are squared. It's easier to stack them that way."
 }
