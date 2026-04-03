@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03 21:30 UTC",
+  "fetched_at": "2026-04-03 22:30 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-04-03",
     "title": "Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula",
@@ -7,60 +7,24 @@
     "url": "https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg",
     "media_type": "image"
   },
-  "trending_github_repos": [
-    {
-      "name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 347168,
-      "language": "TypeScript",
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
-      "name": "DigitalPlatDev/FreeDomain",
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 155582,
-      "language": "HTML",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "stars": 136541,
-      "language": "TypeScript",
-      "url": "https://github.com/anomalyco/opencode"
-    },
-    {
-      "name": "affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 135952,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/everything-claude-code"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, Notio",
-      "stars": 134242,
-      "language": null,
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-    }
-  ],
+  "trending_github_repos": [],
   "quote_of_the_day": {
-    "text": "There is a difference between giving directions and giving direction.",
-    "author": "Simon Sinek"
+    "text": "With self-discipline, almost anything is possible.",
+    "author": "Theodore Roosevelt"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 66891,
-      "change_24h": 0.08
+      "usd": 66874,
+      "change_24h": -0.03
     },
     "ethereum": {
-      "usd": 2056.91,
+      "usd": 2054.15,
       "change_24h": -0.13
     },
     "solana": {
-      "usd": 80.32,
-      "change_24h": 1.72
+      "usd": 80.27,
+      "change_24h": 1.74
     }
   },
-  "fun_fact": "Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5."
+  "fun_fact": "Tina Turner's real name is Annie Mae Bullock."
 }
