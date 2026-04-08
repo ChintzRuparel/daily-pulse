@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-04-08 10:12 UTC",
+  "astronomy_picture_of_the_day": {
+    "error": "unavailable"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 351747,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "stars": 177407,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 156232,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 145771,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 140374,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Success is like reaching an important birthday and finding you're exactly the same.",
+    "author": "Audrey Hepburn"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 71644,
+      "change_24h": 3.92
+    },
+    "ethereum": {
+      "usd": 2250.09,
+      "change_24h": 6.21
+    },
+    "solana": {
+      "usd": 84.61,
+      "change_24h": 5.46
+    }
+  },
+  "fun_fact": "US gold coins used to say “In Gold We Trust”."
+}
