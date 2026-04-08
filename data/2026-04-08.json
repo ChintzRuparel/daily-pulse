@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08 16:59 UTC",
+  "fetched_at": "2026-04-08 19:57 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 352087,
+      "stars": 352174,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 177951,
+      "stars": 178116,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 156281,
+      "stars": 156292,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 146487,
+      "stars": 146625,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 141110,
+      "stars": 141272,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "Confuse them with your silence and amaze them with your actions.",
-    "author": "Unknown"
+    "text": "The giving of love is an education in itself.",
+    "author": "Eleanor Roosevelt"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 71633,
-      "change_24h": 5.01
+      "usd": 71284,
+      "change_24h": 3.34
     },
     "ethereum": {
-      "usd": 2223.49,
-      "change_24h": 6.72
+      "usd": 2206.92,
+      "change_24h": 4.51
     },
     "solana": {
-      "usd": 83.49,
-      "change_24h": 5.83
+      "usd": 83.03,
+      "change_24h": 1.7
     }
   },
-  "fun_fact": "Jimmy Carter was the first U.S. President to be born in a hospital."
+  "fun_fact": "A female ferret will die if it goes into heat and cannot find a mate."
 }
