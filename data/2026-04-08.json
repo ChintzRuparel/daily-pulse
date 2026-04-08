@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08 13:15 UTC",
+  "fetched_at": "2026-04-08 16:59 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 351903,
+      "stars": 352087,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 177661,
+      "stars": 177951,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 156257,
+      "stars": 156281,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 146102,
+      "stars": 146487,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 140718,
+      "stars": 141110,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "My powers are ordinary. Only my application brings me success.",
-    "author": "Isaac Newton"
+    "text": "Confuse them with your silence and amaze them with your actions.",
+    "author": "Unknown"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 72609,
-      "change_24h": 5.94
+      "usd": 71633,
+      "change_24h": 5.01
     },
     "ethereum": {
-      "usd": 2261.22,
-      "change_24h": 8.43
+      "usd": 2223.49,
+      "change_24h": 6.72
     },
     "solana": {
-      "usd": 84.54,
-      "change_24h": 6.87
+      "usd": 83.49,
+      "change_24h": 5.83
     }
   },
-  "fun_fact": "Mercury is the only planet whose orbit is coplanar with its equator."
+  "fun_fact": "Jimmy Carter was the first U.S. President to be born in a hospital."
 }
