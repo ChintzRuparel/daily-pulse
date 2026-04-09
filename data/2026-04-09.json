@@ -1,66 +1,62 @@
 {
-  "fetched_at": "2026-04-09 11:54 UTC",
+  "fetched_at": "2026-04-09 17:04 UTC",
   "astronomy_picture_of_the_day": {
-    "date": "2026-04-09",
-    "title": "Destruction of Comet C/2026 A1 (MAPS)",
-    "explanation": "As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was made with 40 hours of data and shows the comet plunging toward the Sun, like a moth to a flame. Obse…",
-    "url": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
-    "media_type": "video"
+    "error": "unavailable"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 352869,
+      "stars": 353119,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 179168,
+      "stars": 179480,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 156391,
+      "stars": 156426,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 147918,
+      "stars": 148332,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 142817,
+      "stars": 143320,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "Only those who do nothing at all make no mistakes.",
-    "author": "Unknown"
+    "text": "A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.",
+    "author": "Chinese Proverb"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 71183,
-      "change_24h": -0.72
+      "usd": 72244,
+      "change_24h": 0.73
     },
     "ethereum": {
-      "usd": 2180.87,
-      "change_24h": -2.98
+      "usd": 2212.13,
+      "change_24h": -0.51
     },
     "solana": {
-      "usd": 82.27,
-      "change_24h": -2.6
+      "usd": 83.95,
+      "change_24h": 0.48
     }
   },
-  "fun_fact": "California consumes more bottled water than any other product."
+  "fun_fact": "The average person spends 6 months of their life sitting at red lights."
 }
