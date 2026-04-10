@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-04-10 10:51 UTC",
+  "fetched_at": "2026-04-10 18:49 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-04-10",
+    "title": "Exploring the Antennae",
+    "explanation": "Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies' large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the ce…",
+    "url": "https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 353782,
+      "stars": 354065,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 180282,
+      "stars": 180628,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 156512,
+      "stars": 156575,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 149462,
+      "stars": 149898,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 144803,
+      "stars": 145501,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     }
   ],
   "quote_of_the_day": {
-    "text": "If I can stop one heart from breaking, I shall not live in vain.",
-    "author": "Emily Dickinson"
+    "text": "I will not walk backward in life.",
+    "author": "J.R.R. Tolkien"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 71834,
-      "change_24h": 0.7
+      "usd": 72987,
+      "change_24h": 1.58
     },
     "ethereum": {
-      "usd": 2195.17,
-      "change_24h": 0.14
+      "usd": 2246.52,
+      "change_24h": 1.86
     },
     "solana": {
-      "usd": 83.19,
-      "change_24h": 0.67
+      "usd": 84.98,
+      "change_24h": 1.5
     }
   },
-  "fun_fact": "The surface of the human skin is 6.5 square feet (2m)."
+  "fun_fact": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`."
 }
