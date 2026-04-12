@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-04-10
+## 📅 Latest snapshot — 2026-04-12
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Exploring the Antennae**
-Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies' large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the ce…
-[View full image →](https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg)
+**Comet R3 (PanSTARRS) Brightens**
+Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has been slowly brightening and extending an ion tail since its discovery last year.  This shedding mountain of dirty ice puts on its best sky show this month, though, because it passes its closest to both the Sun (April 19) and the Earth (April 25).  The featured image, showing R3 already sporting a tail extending over 10 …
+[View full image →](https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"It is not how much we have, but how much we enjoy, that makes happiness."*
-> — Charles Spurgeon
+> *"We are always complaining that our days are few, and acting as though there would be no end of them.  "*
+> — Seneca
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $72,971 | 🟢 +1.23% |
-| Ethereum | $2,246.04 | 🟢 +1.31% |
-| Solana | $85.19 | 🟢 +1.43% |
+| Bitcoin | $71,632 | 🔴 -1.68% |
+| Ethereum | $2,215.45 | 🔴 -1.26% |
+| Solana | $82.27 | 🔴 -2.70% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 354,093 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 180,659 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 156,576 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 149,930 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 145,542 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 355,260 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 181,932 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 156,833 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 151,809 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 147,632 |
 
 ---
 
 ### 🎲 Fun Fact
-The giant squid has the largest eyes in the world. 
+There are 1,792 steps in the Eiffel Tower
 
 ---
 
-*Last updated: 2026-04-10 19:41 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-04-12 09:42 UTC · [See all daily snapshots](data/)*
