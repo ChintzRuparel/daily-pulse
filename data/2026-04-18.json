@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18 16:36 UTC",
+  "fetched_at": "2026-04-18 18:44 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-04-18",
     "title": "PanSTARRS and Planets",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 359919,
+      "stars": 359972,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 185944,
+      "stars": 185966,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 160232,
+      "stars": 160294,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 158634,
+      "stars": 158714,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 157708,
+      "stars": 157721,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "It is better to change an opinion than to persist in a wrong one.",
-    "author": "Socrates"
+    "text": "People become attached to their burdens sometimes more than the burdens are attached to them.",
+    "author": "George Bernard Shaw"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 76060,
-      "change_24h": -2.79
+      "usd": 75541,
+      "change_24h": -2.37
     },
     "ethereum": {
-      "usd": 2367.16,
-      "change_24h": -3.88
+      "usd": 2344.05,
+      "change_24h": -3.51
     },
     "solana": {
-      "usd": 86.77,
-      "change_24h": -3.88
+      "usd": 85.94,
+      "change_24h": -3.82
     }
   },
-  "fun_fact": "While in Alcatraz, Al Capone was inmate #85."
+  "fun_fact": "Our eyes are always the same size from birth, but our nose and ears never stop growing."
 }

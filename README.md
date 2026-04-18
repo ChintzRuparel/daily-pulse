@@ -12,34 +12,34 @@ Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting br
 ---
 
 ### 💬 Quote of the Day
-> *"It is better to change an opinion than to persist in a wrong one."*
-> — Socrates
+> *"People become attached to their burdens sometimes more than the burdens are attached to them."*
+> — George Bernard Shaw
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $76,060 | 🔴 -2.79% |
-| Ethereum | $2,367.16 | 🔴 -3.88% |
-| Solana | $86.77 | 🔴 -3.88% |
+| Bitcoin | $75,541 | 🔴 -2.37% |
+| Ethereum | $2,344.05 | 🔴 -3.51% |
+| Solana | $85.94 | 🔴 -3.82% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 359,919 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 185,944 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 160,232 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 158,634 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 157,708 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 359,972 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 185,966 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 160,294 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 158,714 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 157,721 |
 
 ---
 
 ### 🎲 Fun Fact
-While in Alcatraz, Al Capone was inmate #85.
+Our eyes are always the same size from birth, but our nose and ears never stop growing.
 
 ---
 
-*Last updated: 2026-04-18 16:36 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-04-18 18:44 UTC · [See all daily snapshots](data/)*
