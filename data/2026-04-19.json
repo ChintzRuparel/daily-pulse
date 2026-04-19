@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-19 14:00 UTC",
+  "fetched_at": "2026-04-19 15:35 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 360357,
+      "stars": 360404,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 186196,
+      "stars": 186230,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 160883,
+      "stars": 160954,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 159511,
+      "stars": 159612,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 157837,
+      "stars": 157851,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.",
-    "author": "Steve Maraboli"
+    "text": "The thing about smart people is that they seem like crazy people to dumb people.",
+    "author": "Stephen Hawking"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 75921,
-      "change_24h": -0.29
+      "usd": 75835,
+      "change_24h": -0.48
     },
     "ethereum": {
-      "usd": 2338.77,
-      "change_24h": -0.72
+      "usd": 2331.04,
+      "change_24h": -1.41
     },
     "solana": {
-      "usd": 86.32,
-      "change_24h": -0.51
+      "usd": 86.1,
+      "change_24h": -0.85
     }
   },
-  "fun_fact": "In Vermont, the ratio of cows to people is 10:1"
+  "fun_fact": "Mexico City sinks about 10 inches a year"
 }
