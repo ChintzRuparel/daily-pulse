@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-04-18
+## 📅 Latest snapshot — 2026-04-19
 
 ### 🔭 NASA Astronomy Picture of the Day
-**PanSTARRS and Planets**
-Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is still easy to spot in this camera image taken on April 16. In the view from a volcanic peak overlooking France's Reunion I…
-[View full image →](https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg)
+**Eye on the Milky Way**
+Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is re…
+[View full image →](https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"People become attached to their burdens sometimes more than the burdens are attached to them."*
-> — George Bernard Shaw
+> *"The best way to find yourself is to lose yourself in the service of others."*
+> — Mahatma Gandhi
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $75,541 | 🔴 -2.37% |
-| Ethereum | $2,344.05 | 🔴 -3.51% |
-| Solana | $85.94 | 🔴 -3.82% |
+| Bitcoin | $75,247 | 🔴 -1.89% |
+| Ethereum | $2,319.68 | 🔴 -2.47% |
+| Solana | $84.78 | 🔴 -2.89% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 359,972 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 185,966 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 160,294 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 158,714 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 157,721 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 360,228 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 186,139 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 160,688 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 159,257 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 157,792 |
 
 ---
 
 ### 🎲 Fun Fact
-Our eyes are always the same size from birth, but our nose and ears never stop growing.
+Warren Beatty and Shirley McLaine are brother and sister.
 
 ---
 
-*Last updated: 2026-04-18 18:44 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-04-19 08:51 UTC · [See all daily snapshots](data/)*
