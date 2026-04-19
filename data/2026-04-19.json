@@ -1,66 +1,62 @@
 {
-  "fetched_at": "2026-04-19 10:36 UTC",
+  "fetched_at": "2026-04-19 14:00 UTC",
   "astronomy_picture_of_the_day": {
-    "date": "2026-04-19",
-    "title": "Eye on the Milky Way",
-    "explanation": "Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is re…",
-    "url": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg",
-    "media_type": "image"
+    "error": "unavailable"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 360261,
+      "stars": 360357,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 186154,
+      "stars": 186196,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 160759,
+      "stars": 160883,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 159328,
+      "stars": 159511,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 157812,
+      "stars": 157837,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "When you are tempted to give up, your breakthrough is probably just around the corner.",
-    "author": "Joyce Meyer"
+    "text": "I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.",
+    "author": "Steve Maraboli"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 75108,
-      "change_24h": -1.53
+      "usd": 75921,
+      "change_24h": -0.29
     },
     "ethereum": {
-      "usd": 2313.58,
-      "change_24h": -2.03
+      "usd": 2338.77,
+      "change_24h": -0.72
     },
     "solana": {
-      "usd": 84.69,
-      "change_24h": -2.86
+      "usd": 86.32,
+      "change_24h": -0.51
     }
   },
-  "fun_fact": "A honeybee can fly at fifteen miles per hour."
+  "fun_fact": "In Vermont, the ratio of cows to people is 10:1"
 }
