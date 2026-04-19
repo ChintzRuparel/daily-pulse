@@ -1,66 +1,62 @@
 {
-  "fetched_at": "2026-04-19 18:44 UTC",
+  "fetched_at": "2026-04-19 19:39 UTC",
   "astronomy_picture_of_the_day": {
-    "date": "2026-04-19",
-    "title": "Eye on the Milky Way",
-    "explanation": "Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is re…",
-    "url": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg",
-    "media_type": "image"
+    "error": "unavailable"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 360492,
+      "stars": 360515,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 186277,
+      "stars": 186283,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 161053,
+      "stars": 161075,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 159753,
+      "stars": 159784,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 157875,
+      "stars": 157877,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "Don't be afraid that you do not know something. Be afraid of not learning about it.",
-    "author": "Zen Proverb"
+    "text": "If you are lucky enough to find love, remember it is there and don't throw it away.",
+    "author": "Stephen Hawking"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 74742,
-      "change_24h": -1.07
+      "usd": 74960,
+      "change_24h": -0.89
     },
     "ethereum": {
-      "usd": 2292.79,
-      "change_24h": -2.2
+      "usd": 2297.82,
+      "change_24h": -2.19
     },
     "solana": {
-      "usd": 85.01,
-      "change_24h": -1.1
+      "usd": 85.37,
+      "change_24h": -0.81
     }
   },
-  "fun_fact": "The Guinness Book of Records holds the record for being the book most often stolen from Libraries."
+  "fun_fact": "A man named Charles Osborne had the hiccups for 69 years!"
 }
