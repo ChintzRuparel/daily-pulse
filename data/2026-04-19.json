@@ -1,34 +1,38 @@
 {
-  "fetched_at": "2026-04-19 20:34 UTC",
+  "fetched_at": "2026-04-19 22:32 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-04-19",
+    "title": "Eye on the Milky Way",
+    "explanation": "Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is re…",
+    "url": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 360528,
+      "stars": 360561,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 186291,
+      "stars": 186305,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 161090,
+      "stars": 161128,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 159811,
+      "stars": 159869,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
@@ -41,22 +45,22 @@
     }
   ],
   "quote_of_the_day": {
-    "text": "Love is not about possession. Love is about appreciation.",
-    "author": "Osho"
+    "text": "Words, once they are printed, have a life of their own.",
+    "author": "Carol Burnett"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 74844,
-      "change_24h": -1.2
+      "usd": 73993,
+      "change_24h": -2.37
     },
     "ethereum": {
-      "usd": 2295.69,
-      "change_24h": -2.3
+      "usd": 2264.34,
+      "change_24h": -3.87
     },
     "solana": {
-      "usd": 85.11,
-      "change_24h": -1.22
+      "usd": 83.42,
+      "change_24h": -3.26
     }
   },
-  "fun_fact": "If Texas were a country, its GNP would be the fifth largest of any country in the world."
+  "fun_fact": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other."
 }
