@@ -1,15 +1,5 @@
 {
-  "date": "2026-04-19",
-  "skip": false,
-  "commit_hours": [
-    8,
-    10,
-    13,
-    14,
-    15,
-    18,
-    19,
-    20,
-    22
-  ]
+  "date": "2026-04-20",
+  "skip": true,
+  "commit_hours": []
 }
