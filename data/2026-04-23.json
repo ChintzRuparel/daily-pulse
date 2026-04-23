@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-04-23 15:50 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-04-23",
+    "title": "Large Scale Structure of the Universe",
+    "explanation": "This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of these data: the black gaps indicate where our Galaxy obscures distant objects. The feathery web in …",
+    "url": "https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 362797,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "stars": 187768,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 165395,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 165036,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 158428,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "We will act consistently with our view of who we truly are, whether that view is accurate or not.",
+    "author": "Tony Robbins"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 78380,
+      "change_24h": -1.18
+    },
+    "ethereum": {
+      "usd": 2334.45,
+      "change_24h": -3.2
+    },
+    "solana": {
+      "usd": 86.3,
+      "change_24h": -2.28
+    }
+  },
+  "fun_fact": "On average people fear spiders more than they do death."
+}
