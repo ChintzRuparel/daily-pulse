@@ -12,34 +12,34 @@ This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) a
 ---
 
 ### 💬 Quote of the Day
-> *"We will act consistently with our view of who we truly are, whether that view is accurate or not."*
-> — Tony Robbins
+> *"Confidence is what you have before you understand the problem."*
+> — Woody Allen
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $78,380 | 🔴 -1.18% |
-| Ethereum | $2,334.45 | 🔴 -3.20% |
-| Solana | $86.3 | 🔴 -2.28% |
+| Bitcoin | $78,019 | 🔴 -0.93% |
+| Ethereum | $2,327.88 | 🔴 -3.21% |
+| Solana | $85.94 | 🔴 -1.75% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 362,797 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 187,768 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 165,395 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 165,036 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 158,428 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 362,915 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 187,835 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 165,581 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 165,235 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 158,459 |
 
 ---
 
 ### 🎲 Fun Fact
-On average people fear spiders more than they do death.
+Nutmeg is extremely poisonous if injected intravenously.
 
 ---
 
-*Last updated: 2026-04-23 15:50 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-04-23 21:42 UTC · [See all daily snapshots](data/)*
