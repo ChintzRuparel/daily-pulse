@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-04-24 13:18 UTC",
+  "fetched_at": "2026-04-24 16:52 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-04-24",
+    "title": "Young Moon and Sister Stars",
+    "explanation": "Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young Moon was also close on the sky to the lovely Pleiades Star Cluster. With the moonlight dimmed by c…",
+    "url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 363267,
+      "stars": 363349,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 188047,
+      "stars": 188093,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 166389,
+      "stars": 166553,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 165917,
+      "stars": 166055,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 158562,
+      "stars": 158581,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.",
-    "author": "Henry Ward Beecher"
+    "text": "There is no path to Love. Love is the path.",
+    "author": "Dan Millman"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 78335,
-      "change_24h": 0.86
+      "usd": 77666,
+      "change_24h": -0.72
     },
     "ethereum": {
-      "usd": 2327.26,
-      "change_24h": 0.14
+      "usd": 2313.13,
+      "change_24h": -0.66
     },
     "solana": {
-      "usd": 86.43,
-      "change_24h": 0.82
+      "usd": 86.24,
+      "change_24h": 0.18
     }
   },
-  "fun_fact": "Humans are the only primates that don`t have pigment in the palms of their hands."
+  "fun_fact": "Butterflies taste with their feet."
 }
