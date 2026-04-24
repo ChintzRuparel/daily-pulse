@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-04-24 09:50 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-04-24",
+    "title": "Young Moon and Sister Stars",
+    "explanation": "Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young Moon was also close on the sky to the lovely Pleiades Star Cluster. With the moonlight dimmed by c…",
+    "url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 363194,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "stars": 188011,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 166242,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 165794,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 158542,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.",
+    "author": "Jiddu Krishnamurti"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 77547,
+      "change_24h": -0.13
+    },
+    "ethereum": {
+      "usd": 2309.47,
+      "change_24h": -0.37
+    },
+    "solana": {
+      "usd": 85.32,
+      "change_24h": -0.36
+    }
+  },
+  "fun_fact": "The U.S. bought Alaska for 2 cents an acre from Russia."
+}
