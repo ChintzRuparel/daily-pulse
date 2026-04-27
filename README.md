@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-04-25
+## 📅 Latest snapshot — 2026-04-27
 
 ### 🔭 NASA Astronomy Picture of the Day
-**The Persistence of Sunlight**
-This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates di…
-[View full image →](https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg)
+**Comet R3 PanSTARRS Behind Satellite Trails**
+Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the contrary, to the eye, satellites appear as points that drift slowly across the night sky and shine by r…
+[View full image →](https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"No man is happy unless he believes he is."*
-> — Publilius Syrus
+> *"Quality is more important than quantity. One home run is much better than two doubles."*
+> — Steve Jobs
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $77,410 | 🔴 -0.31% |
-| Ethereum | $2,311.75 | 🔴 -0.55% |
-| Solana | $85.79 | 🔴 -0.62% |
+| Bitcoin | $77,671 | 🔴 -0.50% |
+| Ethereum | $2,317.2 | 🔴 -0.64% |
+| Solana | $85.37 | 🔴 -1.38% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 363,865 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 188,339 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 167,538 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 166,890 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 158,724 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 365,002 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 188,702 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 169,042 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 167,921 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 158,924 |
 
 ---
 
 ### 🎲 Fun Fact
-The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.
+Humans and dolphins are the only species that have sex for pleasure.
 
 ---
 
-*Last updated: 2026-04-25 20:35 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-04-27 08:19 UTC · [See all daily snapshots](data/)*
