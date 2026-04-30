@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-30 12:13 UTC",
+  "fetched_at": "2026-04-30 17:18 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-04-30",
     "title": "Waves on Titan",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 366634,
+      "stars": 366736,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 189345,
+      "stars": 189385,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 174028,
+      "stars": 174326,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 170627,
+      "stars": 170799,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 159452,
+      "stars": 159488,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "The only limits in your life are those that you set yourself.",
-    "author": "Celestine Chua"
+    "text": "Stop acting so small. You are the universe in ecstatic motion.",
+    "author": "Rumi"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 76097,
-      "change_24h": -1.75
+      "usd": 76155,
+      "change_24h": 0.3
     },
     "ethereum": {
-      "usd": 2259.33,
-      "change_24h": -2.83
+      "usd": 2253.12,
+      "change_24h": -0.67
     },
     "solana": {
-      "usd": 83.03,
-      "change_24h": -1.85
+      "usd": 82.93,
+      "change_24h": -0.11
     }
   },
-  "fun_fact": "The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had."
+  "fun_fact": "An average human scalp has 100,000 hairs."
 }
