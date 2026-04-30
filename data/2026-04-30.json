@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-04-30 10:52 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-04-30",
+    "title": "Waves on Titan",
+    "explanation": "Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of Saturn to date, and the only object in the solar system (besides Earth) known to have liquid lakes and seas on its surf…",
+    "url": "https://apod.nasa.gov/apod/image/2604/waves.mp4",
+    "media_type": "video"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 366613,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "stars": 189337,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 173949,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 170596,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 159439,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Freedom from desire leads to inner peace.",
+    "author": "Lao Tzu"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 75994,
+      "change_24h": -2.09
+    },
+    "ethereum": {
+      "usd": 2259.6,
+      "change_24h": -3.21
+    },
+    "solana": {
+      "usd": 82.94,
+      "change_24h": -2.77
+    }
+  },
+  "fun_fact": "The average chocolate bar has 8 insects’ legs melted into it."
+}
