@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-05-02 09:03 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-05-02",
+    "title": "Seeing Titan",
+    "explanation": "Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorpti…",
+    "url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 367328,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "stars": 189596,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 176010,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 171716,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 159744,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Be a master of change rather than a victim of change.",
+    "author": "Brian Tracy"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 78287,
+      "change_24h": 1.3
+    },
+    "ethereum": {
+      "usd": 2302.93,
+      "change_24h": 0.87
+    },
+    "solana": {
+      "usd": 83.81,
+      "change_24h": -0.31
+    }
+  },
+  "fun_fact": "There is a city called Rome on every continent."
+}
