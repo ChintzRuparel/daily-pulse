@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02 09:03 UTC",
+  "fetched_at": "2026-05-02 16:42 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-02",
     "title": "Seeing Titan",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 367328,
+      "stars": 367475,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 189596,
+      "stars": 189656,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 176010,
+      "stars": 176331,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 171716,
+      "stars": 171953,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 159744,
+      "stars": 159786,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "Be a master of change rather than a victim of change.",
-    "author": "Brian Tracy"
+    "text": "Trust, but verify.",
+    "author": "Ronald Reagan"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 78287,
-      "change_24h": 1.3
+      "usd": 78452,
+      "change_24h": 0.25
     },
     "ethereum": {
-      "usd": 2302.93,
-      "change_24h": 0.87
+      "usd": 2307.89,
+      "change_24h": 0.27
     },
     "solana": {
-      "usd": 83.81,
-      "change_24h": -0.31
+      "usd": 84.07,
+      "change_24h": -0.14
     }
   },
-  "fun_fact": "There is a city called Rome on every continent."
+  "fun_fact": "The \"pound\" key on your keyboard (#) is called an octotroph. "
 }
