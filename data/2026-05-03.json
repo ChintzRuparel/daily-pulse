@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03 21:38 UTC",
+  "fetched_at": "2026-05-03 22:37 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-03",
     "title": "Trifid Pillars and Jets",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 367893,
+      "stars": 367906,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 189820,
+      "stars": 189827,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 177318,
+      "stars": 177339,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 172624,
+      "stars": 172642,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 159951,
+      "stars": 159955,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.",
-    "author": "Benjamin Franklin"
+    "text": "Fear is stupid. So are regrets.",
+    "author": "Marilyn Monroe"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 78887,
-      "change_24h": -0.15
+      "usd": 79116,
+      "change_24h": 0.57
     },
     "ethereum": {
-      "usd": 2330.99,
-      "change_24h": -0.15
+      "usd": 2339.77,
+      "change_24h": 0.77
     },
     "solana": {
-      "usd": 84.34,
-      "change_24h": -0.46
+      "usd": 84.58,
+      "change_24h": 0.33
     }
   },
-  "fun_fact": "William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth"
+  "fun_fact": "Dr. Jack Kevorkian first patient has Alzheimer`s disease."
 }
