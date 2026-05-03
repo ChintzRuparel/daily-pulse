@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03 20:39 UTC",
+  "fetched_at": "2026-05-03 21:38 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-03",
     "title": "Trifid Pillars and Jets",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 367887,
+      "stars": 367893,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 189809,
+      "stars": 189820,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 177289,
+      "stars": 177318,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 172601,
+      "stars": 172624,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 159947,
+      "stars": 159951,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "Less is more.",
-    "author": "Robert Browning"
+    "text": "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.",
+    "author": "Benjamin Franklin"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 79098,
-      "change_24h": 0.83
+      "usd": 78887,
+      "change_24h": -0.15
     },
     "ethereum": {
-      "usd": 2340.61,
-      "change_24h": 1.3
+      "usd": 2330.99,
+      "change_24h": -0.15
     },
     "solana": {
-      "usd": 84.6,
-      "change_24h": 0.5
+      "usd": 84.34,
+      "change_24h": -0.46
     }
   },
-  "fun_fact": "Coca-Cola was originally green."
+  "fun_fact": "William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth"
 }
