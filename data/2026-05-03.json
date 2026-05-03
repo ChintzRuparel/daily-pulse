@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03 17:43 UTC",
+  "fetched_at": "2026-05-03 20:39 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-03",
     "title": "Trifid Pillars and Jets",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 367856,
+      "stars": 367887,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 189781,
+      "stars": 189809,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 177213,
+      "stars": 177289,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 172549,
+      "stars": 172601,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 159927,
+      "stars": 159947,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "When you consider things like the stars, our affairs don't seem to matter very much, do they?",
-    "author": "Virginia Woolf"
+    "text": "Less is more.",
+    "author": "Robert Browning"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 78781,
-      "change_24h": 0.46
+      "usd": 79098,
+      "change_24h": 0.83
     },
     "ethereum": {
-      "usd": 2333.56,
-      "change_24h": 1.19
+      "usd": 2340.61,
+      "change_24h": 1.3
     },
     "solana": {
-      "usd": 84.26,
-      "change_24h": 0.27
+      "usd": 84.6,
+      "change_24h": 0.5
     }
   },
-  "fun_fact": "In Utah, it is illegal to swear in front of a dead person."
+  "fun_fact": "Coca-Cola was originally green."
 }
