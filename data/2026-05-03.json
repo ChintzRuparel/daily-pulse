@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03 11:39 UTC",
+  "fetched_at": "2026-05-03 13:04 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-03",
     "title": "Trifid Pillars and Jets",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 367727,
+      "stars": 367755,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 189743,
+      "stars": 189750,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 176939,
+      "stars": 176998,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 172357,
+      "stars": 172397,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 159888,
+      "stars": 159901,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "The most difficult times for many of us are the ones we give ourselves.",
-    "author": "Pema Chodron"
+    "text": "Courage is not having the strength to go on; it is going on when you don't have the strength.",
+    "author": "Theodore Roosevelt"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 78547,
-      "change_24h": 0.51
+      "usd": 78720,
+      "change_24h": 0.6
     },
     "ethereum": {
-      "usd": 2317.74,
-      "change_24h": 0.71
+      "usd": 2324.91,
+      "change_24h": 0.87
     },
     "solana": {
-      "usd": 83.94,
-      "change_24h": 0.43
+      "usd": 84.08,
+      "change_24h": 0.23
     }
   },
-  "fun_fact": "Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension."
+  "fun_fact": "Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself."
 }
