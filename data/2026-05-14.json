@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-05-14 18:58 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-05-14",
+    "title": "Messier Catalog at Uniform Scale",
+    "explanation": "What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visible from the southern half of the Earth.   The featured image shows all 110 objects in the catalog at …",
+    "url": "https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 371853,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "stars": 191436,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 191002,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 182124,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 162345,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.",
+    "author": "Andrew Carnegie"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 81529,
+      "change_24h": 2.41
+    },
+    "ethereum": {
+      "usd": 2309.24,
+      "change_24h": 2.19
+    },
+    "solana": {
+      "usd": 93.36,
+      "change_24h": 2.66
+    }
+  },
+  "fun_fact": "14% of Americans have skinny-dipped with a member of the opposite sex at least once."
+}

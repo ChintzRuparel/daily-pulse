@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-05-09
+## 📅 Latest snapshot — 2026-05-14
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Messier Craters in Stereo**
-Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respective…
-[View full image →](https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg)
+**Messier Catalog at Uniform Scale**
+What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visible from the southern half of the Earth.   The featured image shows all 110 objects in the catalog at …
+[View full image →](https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"The destiny of man is in his own soul. "*
-> — Herodotus
+> *"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."*
+> — Andrew Carnegie
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $80,764 | 🟢 +0.70% |
-| Ethereum | $2,329.17 | 🟢 +0.74% |
-| Solana | $93.35 | 🟢 +1.36% |
+| Bitcoin | $81,529 | 🟢 +2.41% |
+| Ethereum | $2,309.24 | 🟢 +2.19% |
+| Solana | $93.36 | 🟢 +2.66% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 370,208 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 190,856 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 184,295 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 176,680 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 161,117 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 371,853 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 191,436 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 191,002 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 182,124 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 162,345 |
 
 ---
 
 ### 🎲 Fun Fact
-A giraffe can go without water longer than a camel.
+14% of Americans have skinny-dipped with a member of the opposite sex at least once.
 
 ---
 
-*Last updated: 2026-05-09 21:40 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-05-14 18:58 UTC · [See all daily snapshots](data/)*
