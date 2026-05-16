@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-05-14
+## 📅 Latest snapshot — 2026-05-16
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Messier Catalog at Uniform Scale**
-What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visible from the southern half of the Earth.   The featured image shows all 110 objects in the catalog at …
-[View full image →](https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg)
+**Aurora Slathers Up the Sky**
+Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from a…
+[View full image →](https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."*
-> — Andrew Carnegie
+> *"You are never too old to set another goal or to dream a new dream."*
+> — Les Brown
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $81,529 | 🟢 +2.41% |
-| Ethereum | $2,309.24 | 🟢 +2.19% |
-| Solana | $93.36 | 🟢 +2.66% |
+| Bitcoin | $78,201 | 🔴 -1.08% |
+| Ethereum | $2,180.0 | 🔴 -1.93% |
+| Solana | $86.74 | 🔴 -3.06% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 371,853 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 191,436 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 191,002 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 182,124 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 162,345 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 372,407 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 193,805 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 191,692 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 184,444 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 163,037 |
 
 ---
 
 ### 🎲 Fun Fact
-14% of Americans have skinny-dipped with a member of the opposite sex at least once.
+In Utah, it is illegal to swear in front of a dead person.
 
 ---
 
-*Last updated: 2026-05-14 18:58 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-05-16 19:14 UTC · [See all daily snapshots](data/)*
