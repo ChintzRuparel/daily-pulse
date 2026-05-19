@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-05-16
+## 📅 Latest snapshot — 2026-05-19
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Aurora Slathers Up the Sky**
-Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from a…
-[View full image →](https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg)
+**NGC 2170: The Angel Nebula**
+Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household it…
+[View full image →](https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"You are never too old to set another goal or to dream a new dream."*
-> — Les Brown
+> *"The energy of the mind is the essence of life."*
+> — Aristotle
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $78,201 | 🔴 -1.08% |
-| Ethereum | $2,180.0 | 🔴 -1.93% |
-| Solana | $86.74 | 🔴 -3.06% |
+| Bitcoin | $76,668 | 🔴 -0.95% |
+| Ethereum | $2,110.04 | 🔴 -1.58% |
+| Solana | $84.4 | 🔴 -0.95% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 372,407 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 193,805 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 191,692 |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 184,444 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 163,037 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 373,146 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 197,701 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 191,963 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 186,938 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 163,677 |
 
 ---
 
 ### 🎲 Fun Fact
-In Utah, it is illegal to swear in front of a dead person.
+Each year in America there are about 300,000 deaths that can be attributed to obesity.
 
 ---
 
-*Last updated: 2026-05-16 19:14 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-05-19 12:07 UTC · [See all daily snapshots](data/)*
