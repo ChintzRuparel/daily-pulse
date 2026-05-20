@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-20 16:23 UTC",
+  "fetched_at": "2026-05-20 19:22 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-20",
     "title": "The Dark Wolf Nebula",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 373491,
+      "stars": 373516,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 199709,
+      "stars": 199839,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 192074,
+      "stars": 192092,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 187592,
+      "stars": 187650,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 163868,
+      "stars": 163877,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
-    "author": "Harold Abelson"
+    "text": "You can do nothing to change the past, and the future will never come exactly as you plan or hope for.",
+    "author": "Dan Millman"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 77207,
-      "change_24h": 0.96
+      "usd": 77402,
+      "change_24h": 0.74
     },
     "ethereum": {
-      "usd": 2130.56,
-      "change_24h": 1.03
+      "usd": 2132.98,
+      "change_24h": 0.83
     },
     "solana": {
       "usd": 85.81,
-      "change_24h": 1.83
+      "change_24h": 1.56
     }
   },
-  "fun_fact": "In The Empire Strikes Back there is a potato hidden in the asteroid field"
+  "fun_fact": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!"
 }
