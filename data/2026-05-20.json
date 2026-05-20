@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-20 12:21 UTC",
+  "fetched_at": "2026-05-20 16:23 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-20",
     "title": "The Dark Wolf Nebula",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 373429,
+      "stars": 373491,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 199450,
+      "stars": 199709,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 192053,
+      "stars": 192074,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 187492,
+      "stars": 187592,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 163840,
+      "stars": 163868,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "Formal education will make you a living, self-education will make you a fortune.",
-    "author": "Jim Rohn"
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 77382,
-      "change_24h": 0.81
+      "usd": 77207,
+      "change_24h": 0.96
     },
     "ethereum": {
-      "usd": 2128.44,
-      "change_24h": 0.69
+      "usd": 2130.56,
+      "change_24h": 1.03
     },
     "solana": {
-      "usd": 84.7,
-      "change_24h": 0.23
+      "usd": 85.81,
+      "change_24h": 1.83
     }
   },
-  "fun_fact": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com"
+  "fun_fact": "In The Empire Strikes Back there is a potato hidden in the asteroid field"
 }
