@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-05-19
+## 📅 Latest snapshot — 2026-05-20
 
 ### 🔭 NASA Astronomy Picture of the Day
-**NGC 2170: The Angel Nebula**
-Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household it…
-[View full image →](https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg)
+**The Dark Wolf Nebula**
+A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary conditions for stars to be born. The Dark Wolf absorbs the intense ultraviolet and visible light emitted by y…
+[View full image →](https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
-> — Harold Abelson
+> *"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."*
+> — James Cameron
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $76,916 | 🟢 +0.10% |
-| Ethereum | $2,115.82 | 🟢 +0.01% |
-| Solana | $84.41 | 🔴 -0.54% |
+| Bitcoin | $77,342 | 🟢 +0.84% |
+| Ethereum | $2,127.62 | 🟢 +0.63% |
+| Solana | $84.89 | 🟢 +0.02% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 373,236 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 198,260 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,002 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 187,136 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 163,722 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 373,382 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 199,245 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,045 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 187,426 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 163,820 |
 
 ---
 
 ### 🎲 Fun Fact
-Baby Ruth candy bar was named after Grover Cleveland’s daughter, Ruth, not the baseball player.
+A crocodile cannot stick its tongue out.
 
 ---
 
-*Last updated: 2026-05-19 20:49 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-05-20 09:26 UTC · [See all daily snapshots](data/)*
