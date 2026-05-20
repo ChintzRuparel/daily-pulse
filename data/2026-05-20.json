@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-20 09:26 UTC",
+  "fetched_at": "2026-05-20 12:21 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-20",
     "title": "The Dark Wolf Nebula",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 373382,
+      "stars": 373429,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 199245,
+      "stars": 199450,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 192045,
+      "stars": 192053,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 187426,
+      "stars": 187492,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 163820,
+      "stars": 163840,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.",
-    "author": "James Cameron"
+    "text": "Formal education will make you a living, self-education will make you a fortune.",
+    "author": "Jim Rohn"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 77342,
-      "change_24h": 0.84
+      "usd": 77382,
+      "change_24h": 0.81
     },
     "ethereum": {
-      "usd": 2127.62,
-      "change_24h": 0.63
+      "usd": 2128.44,
+      "change_24h": 0.69
     },
     "solana": {
-      "usd": 84.89,
-      "change_24h": 0.02
+      "usd": 84.7,
+      "change_24h": 0.23
     }
   },
-  "fun_fact": "A crocodile cannot stick its tongue out."
+  "fun_fact": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com"
 }
