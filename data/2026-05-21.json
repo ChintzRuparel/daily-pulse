@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-05-21 15:17 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-05-21",
+    "title": "A Collision of Galaxy Clusters",
+    "explanation": "This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structures in the universe that are supported by gravity.     Abell 2029 is formed by thousands of galaxies, …",
+    "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 373723,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 201161,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "stars": 192152,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 188063,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 164040,
+      "language": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Out of your vulnerabilities will come your strength.",
+    "author": "Sigmund Freud"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 77099,
+      "change_24h": -0.57
+    },
+    "ethereum": {
+      "usd": 2129.04,
+      "change_24h": -0.48
+    },
+    "solana": {
+      "usd": 86.32,
+      "change_24h": 0.42
+    }
+  },
+  "fun_fact": "There are only four words in the English language which end in \"dous\": tremendous, horrendous, stupendous, and  hazardous."
+}
