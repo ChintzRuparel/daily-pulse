@@ -12,34 +12,34 @@ This cosmic snapshot covers a field of view over twice as wide as the full Moon 
 ---
 
 ### 💬 Quote of the Day
-> *"Smile, breathe and go slowly."*
-> — Thich Nhat Hanh
+> *"It's not what you pay a man, but what he costs you that counts."*
+> — Will Rogers
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $76,765 | 🔴 -0.40% |
-| Ethereum | $2,116.86 | 🔴 -0.51% |
-| Solana | $86.67 | 🟢 +0.55% |
+| Bitcoin | $75,860 | 🔴 -2.26% |
+| Ethereum | $2,070.3 | 🔴 -3.08% |
+| Solana | $84.74 | 🔴 -3.21% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 373,952 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 202,647 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,237 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 188,466 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 164,265 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 373,979 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 202,786 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,249 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 188,505 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 164,286 |
 
 ---
 
 ### 🎲 Fun Fact
-The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  
+Chameleons can move their eyes in two directions at the same time.
 
 ---
 
-*Last updated: 2026-05-22 16:22 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-05-22 20:41 UTC · [See all daily snapshots](data/)*
