@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22 20:41 UTC",
+  "fetched_at": "2026-05-22 22:05 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-05-22",
     "title": "The Nebulous Realm of WR 134",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 373979,
+      "stars": 373988,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 202786,
+      "stars": 202817,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 192249,
+      "stars": 192252,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 188505,
+      "stars": 188520,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 164286,
+      "stars": 164291,
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     }
   ],
   "quote_of_the_day": {
-    "text": "It's not what you pay a man, but what he costs you that counts.",
-    "author": "Will Rogers"
+    "text": "The more knowledge you have, the more you're free to rely on your instincts.",
+    "author": "Arnold Schwarzenegger"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 75860,
-      "change_24h": -2.26
+      "usd": 75872,
+      "change_24h": -2.29
     },
     "ethereum": {
-      "usd": 2070.3,
-      "change_24h": -3.08
+      "usd": 2076.32,
+      "change_24h": -2.71
     },
     "solana": {
-      "usd": 84.74,
-      "change_24h": -3.21
+      "usd": 85.07,
+      "change_24h": -2.52
     }
   },
-  "fun_fact": "Chameleons can move their eyes in two directions at the same time."
+  "fun_fact": "Tehran is the most expensive city on earth."
 }
