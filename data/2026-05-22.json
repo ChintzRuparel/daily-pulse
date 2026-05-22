@@ -1,0 +1,30 @@
+{
+  "fetched_at": "2026-05-22 10:47 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-05-22",
+    "title": "The Nebulous Realm of WR 134",
+    "explanation": "This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of …",
+    "url": "https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [],
+  "quote_of_the_day": {
+    "text": "Fear, uncertainty, and discomfort are your compasses toward growth.",
+    "author": "Celestine Chua"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 77248,
+      "change_24h": -0.03
+    },
+    "ethereum": {
+      "usd": 2121.93,
+      "change_24h": 0.4
+    },
+    "solana": {
+      "usd": 86.99,
+      "change_24h": 1.31
+    }
+  },
+  "fun_fact": "Mount Olympus Mons on Mars is three times the size of Mount Everest."
+}
