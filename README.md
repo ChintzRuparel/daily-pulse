@@ -12,29 +12,34 @@ This cosmic snapshot covers a field of view over twice as wide as the full Moon 
 ---
 
 ### 💬 Quote of the Day
-> *"Fear, uncertainty, and discomfort are your compasses toward growth."*
-> — Celestine Chua
+> *"Smile, breathe and go slowly."*
+> — Thich Nhat Hanh
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $77,248 | 🔴 -0.03% |
-| Ethereum | $2,121.93 | 🟢 +0.40% |
-| Solana | $86.99 | 🟢 +1.31% |
+| Bitcoin | $76,765 | 🔴 -0.40% |
+| Ethereum | $2,116.86 | 🔴 -0.51% |
+| Solana | $86.67 | 🟢 +0.55% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 373,952 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 202,647 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,237 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 188,466 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 164,265 |
 
 ---
 
 ### 🎲 Fun Fact
-Mount Olympus Mons on Mars is three times the size of Mount Everest.
+The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  
 
 ---
 
-*Last updated: 2026-05-22 10:47 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-05-22 16:22 UTC · [See all daily snapshots](data/)*
