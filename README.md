@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-05-22
+## 📅 Latest snapshot — 2026-05-25
 
 ### 🔭 NASA Astronomy Picture of the Day
-**The Nebulous Realm of WR 134**
-This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of …
-[View full image →](https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg)
+**Thackeray's Globules**
+What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thack…
+[View full image →](https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"The more knowledge you have, the more you're free to rely on your instincts."*
-> — Arnold Schwarzenegger
+> *"A fall into a ditch makes you wiser."*
+> — Chinese Proverb
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $75,872 | 🔴 -2.29% |
-| Ethereum | $2,076.32 | 🔴 -2.71% |
-| Solana | $85.07 | 🔴 -2.52% |
+| Bitcoin | $77,315 | 🟢 +0.42% |
+| Ethereum | $2,114.96 | 🔴 -0.08% |
+| Solana | $85.93 | 🔴 -0.27% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 373,988 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 202,817 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,252 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 188,520 |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 164,291 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 374,532 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 205,802 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,464 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 191,687 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 166,566 |
 
 ---
 
 ### 🎲 Fun Fact
-Tehran is the most expensive city on earth.
+"Underground" is the only word in the English language that begins and ends with the letters "und"
 
 ---
 
-*Last updated: 2026-05-22 22:05 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-05-25 12:27 UTC · [See all daily snapshots](data/)*
