@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-05-26 09:50 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-05-26",
+    "title": "NGC 3660 and Burçin's Galaxy",
+    "explanation": "The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar. …",
+    "url": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 374740,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 207207,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 193247,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "stars": 192548,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 167917,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "When you have a dream, you've got to grab it and never let go.",
+    "author": "Carol Burnett"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 76572,
+      "change_24h": -1.19
+    },
+    "ethereum": {
+      "usd": 2093.86,
+      "change_24h": -1.04
+    },
+    "solana": {
+      "usd": 84.34,
+      "change_24h": -1.77
+    }
+  },
+  "fun_fact": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  "
+}

@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-05-25
+## 📅 Latest snapshot — 2026-05-26
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Thackeray's Globules**
-What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thack…
-[View full image →](https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg)
+**NGC 3660 and Burçin's Galaxy**
+The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar. …
+[View full image →](https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"A fall into a ditch makes you wiser."*
-> — Chinese Proverb
+> *"When you have a dream, you've got to grab it and never let go."*
+> — Carol Burnett
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $77,315 | 🟢 +0.42% |
-| Ethereum | $2,114.96 | 🔴 -0.08% |
-| Solana | $85.93 | 🔴 -0.27% |
+| Bitcoin | $76,572 | 🔴 -1.19% |
+| Ethereum | $2,093.86 | 🔴 -1.04% |
+| Solana | $84.34 | 🔴 -1.77% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 374,532 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 205,802 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,464 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 191,687 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 166,566 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 374,740 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 207,207 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 193,247 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 192,548 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 167,917 |
 
 ---
 
 ### 🎲 Fun Fact
-"Underground" is the only word in the English language that begins and ends with the letters "und"
+The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  
 
 ---
 
-*Last updated: 2026-05-25 12:27 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-05-26 09:50 UTC · [See all daily snapshots](data/)*
