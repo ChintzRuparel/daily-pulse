@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-06-04 20:01 UTC",
+  "fetched_at": "2026-06-04 22:18 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-06-04",
+    "title": "A Planetary Nebula with Cosmic Buckyballs",
+    "explanation": "What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured here in exquisite detail by the James Webb Space Telescope, is the celestial site where buckyballs were first identified in 2010.     Buckminsterfullerene — as buckyballs are officially called — is a molecule with 60 carbon atoms (C60) arranged in the shape of a soccer ball.   The molecule is named for architect Buckmi…",
+    "url": "https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 376832,
+      "stars": 376848,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 217845,
+      "stars": 217889,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 207039,
+      "stars": 207141,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 193254,
+      "stars": 193261,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 180752,
+      "stars": 180880,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     }
   ],
   "quote_of_the_day": {
-    "text": "Sometimes you have to lose all you have to find out who you truly are.",
-    "author": "Roy T. Bennett"
+    "text": "Man should fear never beginning to live.",
+    "author": "Marcus Aurelius"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63566,
-      "change_24h": -2.59
+      "usd": 63288,
+      "change_24h": -2.88
     },
     "ethereum": {
-      "usd": 1775.52,
-      "change_24h": -1.22
+      "usd": 1757.86,
+      "change_24h": -4.03
     },
     "solana": {
-      "usd": 69.05,
-      "change_24h": -3.95
+      "usd": 67.8,
+      "change_24h": -6.2
     }
   },
-  "fun_fact": "The Automated Teller Machine (ATM) was introduced in England in 1965."
+  "fun_fact": "Over 60% of all those who marry get divorced."
 }
