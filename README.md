@@ -12,34 +12,34 @@ What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured 
 ---
 
 ### 💬 Quote of the Day
-> *"Wit is educated insolence."*
-> — Aristotle
+> *"Much learning does not teach understanding."*
+> — Heraclitus
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $63,327 | 🔴 -5.50% |
-| Ethereum | $1,765.93 | 🔴 -5.74% |
-| Solana | $68.49 | 🔴 -8.55% |
+| Bitcoin | $62,388 | 🔴 -6.89% |
+| Ethereum | $1,745.88 | 🔴 -6.88% |
+| Solana | $68.21 | 🔴 -9.02% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 376,700 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 217,356 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 206,286 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 193,234 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 179,808 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 376,740 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 217,549 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 206,549 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 193,241 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 180,127 |
 
 ---
 
 ### 🎲 Fun Fact
-Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
+By raising your legs slowly and lying on your back, you cannot sink into quicksand.
 
 ---
 
-*Last updated: 2026-06-04 08:18 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-06-04 11:50 UTC · [See all daily snapshots](data/)*
