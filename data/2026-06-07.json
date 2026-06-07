@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-07 14:49 UTC",
+  "fetched_at": "2026-06-07 16:12 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 377392,
+      "stars": 377402,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 220170,
+      "stars": 220233,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 209572,
+      "stars": 209625,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 193425,
+      "stars": 193424,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 185461,
+      "stars": 185552,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     }
   ],
   "quote_of_the_day": {
-    "text": "Whatever you are, be a good one.",
-    "author": "Abraham Lincoln"
+    "text": "We live only now. Everything else is either passed or is unknown.",
+    "author": "Marcus Aurelius"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 61829,
-      "change_24h": 1.48
+      "usd": 62000,
+      "change_24h": 2.02
     },
     "ethereum": {
-      "usd": 1624.07,
-      "change_24h": 3.87
+      "usd": 1625.45,
+      "change_24h": 4.14
     },
     "solana": {
-      "usd": 64.77,
-      "change_24h": 3.16
+      "usd": 64.85,
+      "change_24h": 4.57
     }
   },
-  "fun_fact": "In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats."
+  "fun_fact": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons."
 }
