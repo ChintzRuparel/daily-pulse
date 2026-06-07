@@ -5,41 +5,41 @@
 ## 📅 Latest snapshot — 2026-06-07
 
 ### 🔭 NASA Astronomy Picture of the Day
-**N/A**
-
-[View full image →](#)
+**Jupiter and Venus from Earth**
+It was visible around the world. The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost no matter where you lived on Earth.  Anyone on our planet with a clear western horizon at sunset could see them. That year, a creative photographer traveled away from the town lights of Szubin, Poland to photograph  a near closest approach of the two planets. The bright planets we…
+[View full image →](https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"We live only now. Everything else is either passed or is unknown."*
-> — Marcus Aurelius
+> *"When you are tempted to give up, your breakthrough is probably just around the corner."*
+> — Joyce Meyer
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $62,000 | 🟢 +2.02% |
-| Ethereum | $1,625.45 | 🟢 +4.14% |
-| Solana | $64.85 | 🟢 +4.57% |
+| Bitcoin | $61,504 | 🟢 +1.60% |
+| Ethereum | $1,616.83 | 🟢 +4.18% |
+| Solana | $64.04 | 🟢 +4.09% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 377,402 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 220,233 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 209,625 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 193,424 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 185,552 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 377,415 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 220,321 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 209,739 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 193,428 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 185,751 |
 
 ---
 
 ### 🎲 Fun Fact
-The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.
+The youngest pope ever was 11 years old.
 
 ---
 
-*Last updated: 2026-06-07 16:12 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-06-07 20:08 UTC · [See all daily snapshots](data/)*

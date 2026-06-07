@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-06-07 16:12 UTC",
+  "fetched_at": "2026-06-07 20:08 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-06-07",
+    "title": "Jupiter and Venus from Earth",
+    "explanation": "It was visible around the world. The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost no matter where you lived on Earth.  Anyone on our planet with a clear western horizon at sunset could see them. That year, a creative photographer traveled away from the town lights of Szubin, Poland to photograph  a near closest approach of the two planets. The bright planets we…",
+    "url": "https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 377402,
+      "stars": 377415,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 220233,
+      "stars": 220321,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 209625,
+      "stars": 209739,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
-      "stars": 193424,
+      "stars": 193428,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 185552,
+      "stars": 185751,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     }
   ],
   "quote_of_the_day": {
-    "text": "We live only now. Everything else is either passed or is unknown.",
-    "author": "Marcus Aurelius"
+    "text": "When you are tempted to give up, your breakthrough is probably just around the corner.",
+    "author": "Joyce Meyer"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 62000,
-      "change_24h": 2.02
+      "usd": 61504,
+      "change_24h": 1.6
     },
     "ethereum": {
-      "usd": 1625.45,
-      "change_24h": 4.14
+      "usd": 1616.83,
+      "change_24h": 4.18
     },
     "solana": {
-      "usd": 64.85,
-      "change_24h": 4.57
+      "usd": 64.04,
+      "change_24h": 4.09
     }
   },
-  "fun_fact": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons."
+  "fun_fact": "The youngest pope ever was 11 years old."
 }
