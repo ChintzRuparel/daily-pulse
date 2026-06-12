@@ -1,66 +1,62 @@
 {
-  "fetched_at": "2026-06-12 19:02 UTC",
+  "fetched_at": "2026-06-12 21:41 UTC",
   "astronomy_picture_of_the_day": {
-    "date": "2026-06-12",
-    "title": "Venus and Jupiter: Conjunction from Avebury",
-    "explanation": "To see Venus and Jupiter together this month, you won't need binoculars or even a telescope. Just look up after sunset and you'll find them emerging as the sky grows dark near the western horizon. In fact, on June 9 the two brightest planets were in close conjunction, separated on the sky by less than 2 degrees from our perspective. Since (brighter) inner planet Venus orbits the Sun faster than ou…",
-    "url": "https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury1024.jpg",
-    "media_type": "image"
+    "error": "unavailable"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 378373,
+      "stars": 378387,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 225877,
+      "stars": 225919,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 214185,
+      "stars": 214247,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 193682,
+      "stars": 193692,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 191852,
+      "stars": 191913,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     }
   ],
   "quote_of_the_day": {
-    "text": "All problems are illusions of the mind.",
-    "author": "Eckhart Tolle"
+    "text": "If you are going to achieve excellence in big things, you develop the habit in little matters.",
+    "author": "Colin Powell"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63665,
-      "change_24h": 0.37
+      "usd": 63524,
+      "change_24h": 0.13
     },
     "ethereum": {
-      "usd": 1666.38,
-      "change_24h": -0.99
+      "usd": 1665.5,
+      "change_24h": -0.73
     },
     "solana": {
-      "usd": 67.08,
-      "change_24h": 0.51
+      "usd": 66.74,
+      "change_24h": -0.3
     }
   },
-  "fun_fact": "The symbol on the \"pound\" key (#) is called an octothorpe..  "
+  "fun_fact": "Residents of Houston, Texas lead the U.S. in eating out - approximately 4.6 times per week."
 }
