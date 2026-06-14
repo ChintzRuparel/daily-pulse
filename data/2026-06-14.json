@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-06-14 11:55 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-06-14",
+    "title": "10 Days of Venus and Jupiter",
+    "explanation": "Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featured panels from Maharashtra, India. Near the western horizon, the evening sky colors and exposures u…",
+    "url": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 378637,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 227410,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 215182,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 193763,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 193126,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has.",
+    "author": "Henry Ward Beecher"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 64595,
+      "change_24h": 1.11
+    },
+    "ethereum": {
+      "usd": 1674.7,
+      "change_24h": -0.12
+    },
+    "solana": {
+      "usd": 68.21,
+      "change_24h": 0.66
+    }
+  },
+  "fun_fact": "Recycling one glass jar, saves enough energy to watch T.V for 3 hours!"
+}
