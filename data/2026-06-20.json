@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-06-20 13:56 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-06-20",
+    "title": "Daytime Moon Meets Evening Star",
+    "explanation": "Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory i…",
+    "url": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 379607,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 233898,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 218607,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 198018,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 194072,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "When you have to make a choice and don't make it, that is in itself a choice.",
+    "author": "William James"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 63364,
+      "change_24h": 0.26
+    },
+    "ethereum": {
+      "usd": 1715.96,
+      "change_24h": 0.76
+    },
+    "solana": {
+      "usd": 71.15,
+      "change_24h": 2.72
+    }
+  },
+  "fun_fact": "It's illegal to spit on the sidewalk in Norfolk, Virginia."
+}

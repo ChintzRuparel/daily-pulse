@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-06-18
+## 📅 Latest snapshot — 2026-06-20
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Possible Supernova Remnant in Galactic Center**
-Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and blue), radio from the MeerKAT telescope in South Africa (large red cloud) and X-rays from NASA's Chan…
-[View full image →](https://apod.nasa.gov/apod/image/2606/sgrc.jpg)
+**Daytime Moon Meets Evening Star**
+Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory i…
+[View full image →](https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Realistic people do not accomplish extraordinary things."*
-> — John Eliot
+> *"When you have to make a choice and don't make it, that is in itself a choice."*
+> — William James
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $64,490 | 🔴 -0.68% |
-| Ethereum | $1,750.37 | 🔴 -0.71% |
-| Solana | $71.94 | 🔴 -0.70% |
+| Bitcoin | $63,364 | 🟢 +0.26% |
+| Ethereum | $1,715.96 | 🟢 +0.76% |
+| Solana | $71.15 | 🟢 +2.72% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 379,299 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 231,635 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 217,483 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 196,493 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 193,994 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 379,607 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 233,898 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 218,607 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 198,018 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,072 |
 
 ---
 
 ### 🎲 Fun Fact
-
+It's illegal to spit on the sidewalk in Norfolk, Virginia.
 
 ---
 
-*Last updated: 2026-06-18 08:43 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-06-20 13:56 UTC · [See all daily snapshots](data/)*
