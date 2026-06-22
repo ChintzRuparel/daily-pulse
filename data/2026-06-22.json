@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-06-22 17:37 UTC",
+  "fetched_at": "2026-06-22 20:42 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-06-22",
+    "title": "M27: The Dumbbell Nebula",
+    "explanation": "Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulas on the sky and visible with binoc…",
+    "url": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 379951,
+      "stars": 379965,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 235852,
+      "stars": 235930,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 219787,
+      "stars": 219861,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 199781,
+      "stars": 199867,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194161,
+      "stars": 194163,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "Success is liking yourself, liking what you do, and liking how you do it.",
-    "author": "Maya Angelou"
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64369,
-      "change_24h": 0.56
+      "usd": 64424,
+      "change_24h": 0.8
     },
     "ethereum": {
-      "usd": 1731.07,
-      "change_24h": 0.38
+      "usd": 1734.32,
+      "change_24h": 0.51
     },
     "solana": {
-      "usd": 72.7,
-      "change_24h": -2.21
+      "usd": 72.72,
+      "change_24h": -1.49
     }
   },
-  "fun_fact": "The first owner of the Marlboro company died of lung cancer."
+  "fun_fact": "The most sensitive cluster of nerves is at the base of the spine."
 }
