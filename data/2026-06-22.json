@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-06-22 17:37 UTC",
+  "astronomy_picture_of_the_day": {
+    "error": "unavailable"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 379951,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 235852,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 219787,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 199781,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 194161,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+    "author": "Maya Angelou"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 64369,
+      "change_24h": 0.56
+    },
+    "ethereum": {
+      "usd": 1731.07,
+      "change_24h": 0.38
+    },
+    "solana": {
+      "usd": 72.7,
+      "change_24h": -2.21
+    }
+  },
+  "fun_fact": "The first owner of the Marlboro company died of lung cancer."
+}
