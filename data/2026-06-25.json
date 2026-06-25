@@ -1,66 +1,62 @@
 {
-  "fetched_at": "2026-06-25 17:09 UTC",
+  "fetched_at": "2026-06-25 21:40 UTC",
   "astronomy_picture_of_the_day": {
-    "date": "2026-06-25",
-    "title": "Anticrepuscular Rays over Sicily",
-    "explanation": "The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud highe…",
-    "url": "https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg",
-    "media_type": "image"
+    "error": "unavailable"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 380429,
+      "stars": 380448,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 238531,
+      "stars": 238617,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 221624,
+      "stars": 221718,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 202893,
+      "stars": 203000,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194292,
+      "stars": 194300,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "You don't earn loyalty in a day. You earn loyalty day-by-day.",
-    "author": "Jeffrey Gitomer"
+    "text": "While some of us act without thinking, too many of us think without acting.",
+    "author": "Dan Millman"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 59112,
-      "change_24h": -1.08
+      "usd": 59817,
+      "change_24h": -1.97
     },
     "ethereum": {
-      "usd": 1557.65,
-      "change_24h": -1.85
+      "usd": 1571.46,
+      "change_24h": -2.78
     },
     "solana": {
-      "usd": 65.81,
-      "change_24h": -1.01
+      "usd": 66.95,
+      "change_24h": -1.03
     }
   },
-  "fun_fact": "The most common name in world is Mohammed."
+  "fun_fact": "Every time you lick a stamp, you consume 1/10 of a calorie."
 }
