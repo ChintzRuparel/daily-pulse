@@ -12,34 +12,34 @@ Right now, one of the largest sunspot groups in recent history is crossing the S
 ---
 
 ### 💬 Quote of the Day
-> *"Courage is resistance to fear, mastery of fear - not absence of fear."*
-> — Mark Twain
+> *"We have to live life with a sense of urgency so not a minute is wasted."*
+> — Les Brown
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $60,156 | 🔴 -0.32% |
-| Ethereum | $1,577.75 | 🔴 -0.30% |
-| Solana | $71.46 | 🔴 -0.66% |
+| Bitcoin | $59,936 | 🔴 -1.32% |
+| Ethereum | $1,579.71 | 🔴 -1.51% |
+| Solana | $71.58 | 🔴 -1.51% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 380,795 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 240,339 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 222,806 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 204,613 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,400 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 380,824 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 240,473 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 222,893 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 204,763 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,407 |
 
 ---
 
 ### 🎲 Fun Fact
-Lizards can self-amputate their tails for protection. It grows back after a few months.
+Proportional to their size, cats have the largest eyes of all mammals.
 
 ---
 
-*Last updated: 2026-06-28 11:04 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-06-28 15:15 UTC · [See all daily snapshots](data/)*
