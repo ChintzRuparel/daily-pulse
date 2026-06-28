@@ -5,41 +5,41 @@
 ## 📅 Latest snapshot — 2026-06-28
 
 ### 🔭 NASA Astronomy Picture of the Day
-**AR 4478: Giant Sunspot Group**
-Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphe…
-[View full image →](https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg)
+**N/A**
+
+[View full image →](#)
 
 ---
 
 ### 💬 Quote of the Day
-> *"We have to live life with a sense of urgency so not a minute is wasted."*
-> — Les Brown
+> *"Truth is like the sun. You can shut it out for a time, but it ain't going away."*
+> — Elvis Presley
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $59,936 | 🔴 -1.32% |
-| Ethereum | $1,579.71 | 🔴 -1.51% |
-| Solana | $71.58 | 🔴 -1.51% |
+| Bitcoin | $59,422 | 🔴 -1.79% |
+| Ethereum | $1,567.39 | 🔴 -1.54% |
+| Solana | $70.95 | 🔴 -1.20% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 380,824 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 240,473 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 222,893 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 204,763 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 380,851 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 240,568 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 222,967 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 204,872 |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,407 |
 
 ---
 
 ### 🎲 Fun Fact
-Proportional to their size, cats have the largest eyes of all mammals.
+The surface of the Earth is about 60% water and 10% ice.
 
 ---
 
-*Last updated: 2026-06-28 15:15 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-06-28 19:15 UTC · [See all daily snapshots](data/)*
