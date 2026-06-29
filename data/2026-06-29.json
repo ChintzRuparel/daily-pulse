@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-29 17:33 UTC",
+  "fetched_at": "2026-06-29 19:52 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 380980,
+      "stars": 380992,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 241387,
+      "stars": 241423,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 223386,
+      "stars": 223427,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 205582,
+      "stars": 205626,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194445,
+      "stars": 194448,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.",
-    "author": "Jon Kabat-Zinn"
+    "text": "The soul without imagination is what an observatory would be without a telescope.",
+    "author": "Henry Ward Beecher"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 60490,
-      "change_24h": 1.61
+      "usd": 60408,
+      "change_24h": 1.86
     },
     "ethereum": {
-      "usd": 1625.83,
-      "change_24h": 3.75
+      "usd": 1623.02,
+      "change_24h": 4.15
     },
     "solana": {
-      "usd": 75.68,
-      "change_24h": 6.18
+      "usd": 75.86,
+      "change_24h": 7.68
     }
   },
-  "fun_fact": "You burn more calories sleeping than you do watching TV."
+  "fun_fact": "\"Dreamt\" is the only English word that ends in the letters \"mt.\""
 }
