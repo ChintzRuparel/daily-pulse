@@ -1,34 +1,38 @@
 {
-  "fetched_at": "2026-06-29 19:52 UTC",
+  "fetched_at": "2026-06-29 22:54 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-06-29",
+    "title": "M82: Galaxy with a Supergalactic Wind",
+    "explanation": "Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic…",
+    "url": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 380992,
+      "stars": 381010,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 241423,
+      "stars": 241478,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 223427,
+      "stars": 223475,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 205626,
+      "stars": 205682,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
@@ -41,22 +45,22 @@
     }
   ],
   "quote_of_the_day": {
-    "text": "The soul without imagination is what an observatory would be without a telescope.",
-    "author": "Henry Ward Beecher"
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 60408,
-      "change_24h": 1.86
+      "usd": 60296,
+      "change_24h": 2.3
     },
     "ethereum": {
-      "usd": 1623.02,
-      "change_24h": 4.15
+      "usd": 1611.94,
+      "change_24h": 3.74
     },
     "solana": {
-      "usd": 75.86,
-      "change_24h": 7.68
+      "usd": 75.13,
+      "change_24h": 6.71
     }
   },
-  "fun_fact": "\"Dreamt\" is the only English word that ends in the letters \"mt.\""
+  "fun_fact": "There are more than 10 million bricks in the Empire State Building!"
 }
