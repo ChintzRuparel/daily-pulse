@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-06-29 17:33 UTC",
+  "astronomy_picture_of_the_day": {
+    "error": "unavailable"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 380980,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 241387,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 223386,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 205582,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 194445,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.",
+    "author": "Jon Kabat-Zinn"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 60490,
+      "change_24h": 1.61
+    },
+    "ethereum": {
+      "usd": 1625.83,
+      "change_24h": 3.75
+    },
+    "solana": {
+      "usd": 75.68,
+      "change_24h": 6.18
+    }
+  },
+  "fun_fact": "You burn more calories sleeping than you do watching TV."
+}

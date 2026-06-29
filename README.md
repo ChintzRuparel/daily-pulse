@@ -2,7 +2,7 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-06-28
+## 📅 Latest snapshot — 2026-06-29
 
 ### 🔭 NASA Astronomy Picture of the Day
 **N/A**
@@ -12,34 +12,34 @@
 ---
 
 ### 💬 Quote of the Day
-> *"Truth is like the sun. You can shut it out for a time, but it ain't going away."*
-> — Elvis Presley
+> *"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."*
+> — Jon Kabat-Zinn
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $59,422 | 🔴 -1.79% |
-| Ethereum | $1,567.39 | 🔴 -1.54% |
-| Solana | $70.95 | 🔴 -1.20% |
+| Bitcoin | $60,490 | 🟢 +1.61% |
+| Ethereum | $1,625.83 | 🟢 +3.75% |
+| Solana | $75.68 | 🟢 +6.18% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 380,851 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 240,568 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 222,967 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 204,872 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,407 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 380,980 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 241,387 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 223,386 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 205,582 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,445 |
 
 ---
 
 ### 🎲 Fun Fact
-The surface of the Earth is about 60% water and 10% ice.
+You burn more calories sleeping than you do watching TV.
 
 ---
 
-*Last updated: 2026-06-28 19:15 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-06-29 17:33 UTC · [See all daily snapshots](data/)*
