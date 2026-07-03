@@ -12,34 +12,34 @@ Some 190 million light-years away, far beyond the bright stars and nebulae of th
 ---
 
 ### 💬 Quote of the Day
-> *"To know your Enemy, you must become your Enemy."*
-> — Sun Tzu
+> *"Sometimes it is harder to deprive oneself of a pain than of a pleasure."*
+> — F. Scott Fitzgerald
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $62,067 | 🟢 +1.35% |
-| Ethereum | $1,741.67 | 🟢 +5.70% |
-| Solana | $81.56 | 🔴 -0.77% |
+| Bitcoin | $62,222 | 🟢 +1.25% |
+| Ethereum | $1,738.06 | 🟢 +2.76% |
+| Solana | $81.59 | 🟢 +1.73% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 381,573 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 245,125 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 225,490 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 208,416 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,533 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 381,582 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 245,247 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 225,550 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 208,512 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,537 |
 
 ---
 
 ### 🎲 Fun Fact
-John Lennon`s first girlfriend was named Thelma Pickles.
+Triskaidekaphobia means fear of the number 13.
 
 ---
 
-*Last updated: 2026-07-03 12:07 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-07-03 15:08 UTC · [See all daily snapshots](data/)*
