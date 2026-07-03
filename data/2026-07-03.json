@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-07-03 12:07 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-07-03",
+    "title": "Three Galaxies in Pavo",
+    "explanation": "Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes. Their young blue star clus…",
+    "url": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 381573,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 245125,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 225490,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 208416,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 194533,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "To know your Enemy, you must become your Enemy.",
+    "author": "Sun Tzu"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 62067,
+      "change_24h": 1.35
+    },
+    "ethereum": {
+      "usd": 1741.67,
+      "change_24h": 5.7
+    },
+    "solana": {
+      "usd": 81.56,
+      "change_24h": -0.77
+    }
+  },
+  "fun_fact": "John Lennon`s first girlfriend was named Thelma Pickles."
+}
