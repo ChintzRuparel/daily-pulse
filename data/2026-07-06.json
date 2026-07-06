@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06 14:22 UTC",
+  "fetched_at": "2026-07-06 17:40 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-06",
     "title": "Dueling Bands over the Atacama Desert",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 381927,
+      "stars": 381938,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 247522,
+      "stars": 247606,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 226551,
+      "stars": 226601,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 210142,
+      "stars": 210238,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194613,
+      "stars": 194614,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "You're braver than you believe, and stronger than you seem, and smarter than you think.",
-    "author": "A.A. Milne"
+    "text": "Success is within the reach of just about everyone.",
+    "author": "Lolly Daskal"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 61749,
-      "change_24h": -1.44
+      "usd": 63708,
+      "change_24h": 1.7
     },
     "ethereum": {
-      "usd": 1742.83,
-      "change_24h": -1.25
+      "usd": 1789.57,
+      "change_24h": 0.52
     },
     "solana": {
-      "usd": 79.96,
-      "change_24h": -1.33
+      "usd": 81.72,
+      "change_24h": 0.81
     }
   },
-  "fun_fact": "2,000 pounds of space dust and other space debris fall on the Earth every day."
+  "fun_fact": "In every episode of “Seinfeld” there is a Superman picture or reference somewhere."
 }
