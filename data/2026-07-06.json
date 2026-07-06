@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06 10:13 UTC",
+  "fetched_at": "2026-07-06 14:22 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-06",
     "title": "Dueling Bands over the Atacama Desert",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 381895,
+      "stars": 381927,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 247357,
+      "stars": 247522,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 226477,
+      "stars": 226551,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 210001,
+      "stars": 210142,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194601,
+      "stars": 194613,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment.",
-    "author": "Dan Millman"
+    "text": "You're braver than you believe, and stronger than you seem, and smarter than you think.",
+    "author": "A.A. Milne"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 62759,
-      "change_24h": 0.18
+      "usd": 61749,
+      "change_24h": -1.44
     },
     "ethereum": {
-      "usd": 1763.44,
-      "change_24h": 0.29
+      "usd": 1742.83,
+      "change_24h": -1.25
     },
     "solana": {
-      "usd": 80.12,
-      "change_24h": 0.2
+      "usd": 79.96,
+      "change_24h": -1.33
     }
   },
-  "fun_fact": "Honey is the only natural food that is made without destroying any kind of life."
+  "fun_fact": "2,000 pounds of space dust and other space debris fall on the Earth every day."
 }
