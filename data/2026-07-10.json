@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-07-10 18:20 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-07-10",
+    "title": "Western Moon, Eastern Sea",
+    "explanation": "The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside, the Eastern Sea can be found at the upper right in this sharp telescopic view. In the image, the la…",
+    "url": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 382495,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 251653,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 228216,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 212680,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 194693,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.",
+    "author": "Paramahansa Yogananda"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 63825,
+      "change_24h": 0.89
+    },
+    "ethereum": {
+      "usd": 1787.73,
+      "change_24h": 1.98
+    },
+    "solana": {
+      "usd": 77.6,
+      "change_24h": -0.75
+    }
+  },
+  "fun_fact": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning \"containing arsenic.\"  "
+}
