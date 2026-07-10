@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10 18:20 UTC",
+  "fetched_at": "2026-07-10 20:19 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-10",
     "title": "Western Moon, Eastern Sea",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 382495,
+      "stars": 382502,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 251653,
+      "stars": 251694,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 228216,
+      "stars": 228232,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 212680,
+      "stars": 212707,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194693,
+      "stars": 194696,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.",
-    "author": "Paramahansa Yogananda"
+    "text": "Experience is simply the name we give our mistakes.",
+    "author": "Oscar Wilde"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63825,
-      "change_24h": 0.89
+      "usd": 63809,
+      "change_24h": 1.0
     },
     "ethereum": {
-      "usd": 1787.73,
-      "change_24h": 1.98
+      "usd": 1792.25,
+      "change_24h": 2.72
     },
     "solana": {
-      "usd": 77.6,
-      "change_24h": -0.75
+      "usd": 77.86,
+      "change_24h": -0.16
     }
   },
-  "fun_fact": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning \"containing arsenic.\"  "
+  "fun_fact": "The past-tense of the English word “dare” is “durst”"
 }
