@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12 20:04 UTC",
+  "fetched_at": "2026-07-12 21:45 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-12",
     "title": "Galaxy NGC 474: Shells and Star Streams",
@@ -11,56 +11,56 @@
     {
       "name": "re4/LibreCode",
       "description": "LibreCode - A Ollama cursor like coding / Reversing Interface",
-      "stars": 820848,
+      "stars": 700870,
       "language": "C#",
       "url": "https://github.com/re4/LibreCode"
     },
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 382693,
+      "stars": 382692,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 252962,
+      "stars": 252980,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 228900,
+      "stars": 228923,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 213674,
+      "stars": 213699,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     }
   ],
   "quote_of_the_day": {
-    "text": "To be fully alive is to feel that everything is possible.",
-    "author": "Eric Hoffer"
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64192,
-      "change_24h": -0.11
+      "usd": 63991,
+      "change_24h": -0.52
     },
     "ethereum": {
-      "usd": 1820.4,
-      "change_24h": -0.16
+      "usd": 1811.86,
+      "change_24h": -0.6
     },
     "solana": {
-      "usd": 77.64,
-      "change_24h": -0.57
+      "usd": 77.17,
+      "change_24h": -1.27
     }
   },
-  "fun_fact": "On the ground, a group of geese is a gaggle, in the sky it is a skein."
+  "fun_fact": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri."
 }
