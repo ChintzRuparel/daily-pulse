@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-07-13 16:29 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-07-13",
+    "title": "Auroras from Space",
+    "explanation": "What do auroras look like from above? Behold!  From the ground, auroras dance high above clouds, frequently causing spectacular displays.  From space, they look a bit different. As the International Space Station (ISS) circles the Earth every 90 minutes, it sometimes sees auroras below that are active on the night side.  A one-hour time-lapse video showing auroras from above was captured about two…",
+    "url": "https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4",
+    "media_type": "video"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 382810,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 253668,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 229171,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 214143,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 194753,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 62260,
+      "change_24h": -2.92
+    },
+    "ethereum": {
+      "usd": 1770.34,
+      "change_24h": -2.83
+    },
+    "solana": {
+      "usd": 75.43,
+      "change_24h": -2.68
+    }
+  },
+  "fun_fact": "During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”."
+}
