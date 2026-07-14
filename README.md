@@ -12,34 +12,34 @@ Why is this asteroid a double?  Earlier this month the Japanese robotic spacecra
 ---
 
 ### 💬 Quote of the Day
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
-> — Harold Abelson
+> *"Don't seek, don't avoid, don't expect. Take what comes and be happy."*
+> — Maxime Lagace
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $62,737 | 🔴 -0.09% |
-| Ethereum | $1,795.05 | 🟢 +0.92% |
-| Solana | $75.25 | 🔴 -1.10% |
+| Bitcoin | $64,482 | 🟢 +3.79% |
+| Ethereum | $1,874.07 | 🟢 +6.16% |
+| Solana | $77.02 | 🟢 +3.12% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 382,898 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 254,382 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 229,460 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 214,629 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,755 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 382,940 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 254,654 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 229,674 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 214,834 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,758 |
 
 ---
 
 ### 🎲 Fun Fact
-101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.
+“Canada” is an Indian word meaning “Big Village”.
 
 ---
 
-*Last updated: 2026-07-14 12:08 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-07-14 20:57 UTC · [See all daily snapshots](data/)*
