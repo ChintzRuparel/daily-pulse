@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-07-17 14:40 UTC",
+  "fetched_at": "2026-07-17 16:12 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-07-17",
+    "title": "The Dust Trail of Comet Tempel 2",
+    "explanation": "Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleu…",
+    "url": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 383241,
+      "stars": 383254,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 256460,
+      "stars": 256504,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 230557,
+      "stars": 230584,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 216311,
+      "stars": 216336,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194806,
+      "stars": 194804,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "A change is brought about because ordinary people do extraordinary things.",
-    "author": "Barack Obama"
+    "text": "I never dwell on what happened. You can't change it. Move forward.",
+    "author": "Joan Rivers"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63227,
-      "change_24h": -2.22
+      "usd": 63453,
+      "change_24h": -1.57
     },
     "ethereum": {
-      "usd": 1823.44,
-      "change_24h": -3.36
+      "usd": 1830.43,
+      "change_24h": -2.41
     },
     "solana": {
-      "usd": 74.32,
-      "change_24h": -2.93
+      "usd": 74.74,
+      "change_24h": -2.17
     }
   },
-  "fun_fact": "California consumes more bottled water than any other product."
+  "fun_fact": "Babies are most likely to be born on Tuesdays."
 }
