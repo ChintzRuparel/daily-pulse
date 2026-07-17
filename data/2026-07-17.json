@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17 16:12 UTC",
+  "fetched_at": "2026-07-17 18:02 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-17",
     "title": "The Dust Trail of Comet Tempel 2",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 383254,
+      "stars": 383267,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 256504,
+      "stars": 256554,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 230584,
+      "stars": 230616,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 216336,
+      "stars": 216377,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194804,
+      "stars": 194803,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "I never dwell on what happened. You can't change it. Move forward.",
-    "author": "Joan Rivers"
+    "text": "Everybody's life is either rewarding or an example.",
+    "author": "Tony Robbins"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63453,
-      "change_24h": -1.57
+      "usd": 63977,
+      "change_24h": -0.11
     },
     "ethereum": {
-      "usd": 1830.43,
-      "change_24h": -2.41
+      "usd": 1842.04,
+      "change_24h": -1.43
     },
     "solana": {
-      "usd": 74.74,
-      "change_24h": -2.17
+      "usd": 75.18,
+      "change_24h": -0.47
     }
   },
-  "fun_fact": "Babies are most likely to be born on Tuesdays."
+  "fun_fact": "China has more English speakers than the United States."
 }
