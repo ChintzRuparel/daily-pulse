@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-07-18 17:54 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-07-18",
+    "title": "Shadow and Rainbow",
+    "explanation": "At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of si…",
+    "url": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 383384,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 256995,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 230879,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 216771,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 194811,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Let us rather run the risk of wearing out than rusting out.",
+    "author": "Theodore Roosevelt"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 64410,
+      "change_24h": 0.6
+    },
+    "ethereum": {
+      "usd": 1850.15,
+      "change_24h": 0.4
+    },
+    "solana": {
+      "usd": 75.28,
+      "change_24h": 0.09
+    }
+  },
+  "fun_fact": "Over 1000 birds a year die from smashing into windows!"
+}

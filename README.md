@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-07-17
+## 📅 Latest snapshot — 2026-07-18
 
 ### 🔭 NASA Astronomy Picture of the Day
-**The Dust Trail of Comet Tempel 2**
-Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleu…
-[View full image →](https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg)
+**Shadow and Rainbow**
+At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of si…
+[View full image →](https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Wise people, even though all laws were abolished, would still lead the same life."*
-> — Aristophanes
+> *"Let us rather run the risk of wearing out than rusting out."*
+> — Theodore Roosevelt
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $64,049 | 🔴 -0.15% |
-| Ethereum | $1,840.89 | 🔴 -1.94% |
-| Solana | $74.95 | 🔴 -1.29% |
+| Bitcoin | $64,410 | 🟢 +0.60% |
+| Ethereum | $1,850.15 | 🟢 +0.40% |
+| Solana | $75.28 | 🟢 +0.09% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 383,285 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 256,611 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 230,654 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 216,429 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,807 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 383,384 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 256,995 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 230,879 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 216,771 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,811 |
 
 ---
 
 ### 🎲 Fun Fact
-The cheetah is the only cat that can't retract its claws.
+Over 1000 birds a year die from smashing into windows!
 
 ---
 
-*Last updated: 2026-07-17 21:50 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-07-18 17:54 UTC · [See all daily snapshots](data/)*
