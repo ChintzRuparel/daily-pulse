@@ -12,34 +12,34 @@ A flying saucer from outer space crash-landed in the Utah desert after being tra
 ---
 
 ### 💬 Quote of the Day
-> *"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."*
-> — Colin Powell
+> *"Cleverness is not wisdom."*
+> — Euripides
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $64,642 | 🟢 +1.12% |
-| Ethereum | $1,868.08 | 🟢 +1.35% |
-| Solana | $76.11 | 🟢 +1.75% |
+| Bitcoin | $64,430 | 🟢 +0.71% |
+| Ethereum | $1,871.15 | 🟢 +1.47% |
+| Solana | $76.08 | 🟢 +1.55% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 383,428 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 257,248 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 231,012 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 216,975 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,814 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 383,450 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 257,340 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 231,063 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 217,057 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,820 |
 
 ---
 
 ### 🎲 Fun Fact
-Walt Disney was afraid of mice.
+Peter Falk, who played "Columbo," has a glass eye.
 
 ---
 
-*Last updated: 2026-07-19 08:11 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-07-19 11:54 UTC · [See all daily snapshots](data/)*
