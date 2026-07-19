@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19 11:54 UTC",
+  "fetched_at": "2026-07-19 13:11 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-19",
     "title": "Flying Saucer Crash Lands in Utah Desert",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 383450,
+      "stars": 383460,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 257340,
+      "stars": 257367,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 231063,
+      "stars": 231081,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 217057,
+      "stars": 217084,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194820,
+      "stars": 194822,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "Cleverness is not wisdom.",
-    "author": "Euripides"
+    "text": "Keep your face to the sunshine and you cannot see the shadows.",
+    "author": "Helen Keller"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64430,
-      "change_24h": 0.71
+      "usd": 64334,
+      "change_24h": 0.57
     },
     "ethereum": {
-      "usd": 1871.15,
-      "change_24h": 1.47
+      "usd": 1866.51,
+      "change_24h": 1.54
     },
     "solana": {
-      "usd": 76.08,
-      "change_24h": 1.55
+      "usd": 75.94,
+      "change_24h": 1.51
     }
   },
-  "fun_fact": "Peter Falk, who played \"Columbo,\" has a glass eye."
+  "fun_fact": "A shark is the only fish that can blink with both eyes."
 }
