@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-07-19 08:11 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-07-19",
+    "title": "Flying Saucer Crash Lands in Utah Desert",
+    "explanation": "A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour…",
+    "url": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 383428,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 257248,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 231012,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 216975,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
+      "stars": 194814,
+      "language": "Rust",
+      "url": "https://github.com/ultraworkers/claw-code"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand.",
+    "author": "Colin Powell"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 64642,
+      "change_24h": 1.12
+    },
+    "ethereum": {
+      "usd": 1868.08,
+      "change_24h": 1.35
+    },
+    "solana": {
+      "usd": 76.11,
+      "change_24h": 1.75
+    }
+  },
+  "fun_fact": "Walt Disney was afraid of mice."
+}
