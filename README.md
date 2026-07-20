@@ -12,34 +12,34 @@ What's happening in the Statue of Liberty nebula?  Bright stars and interesting 
 ---
 
 ### 💬 Quote of the Day
-> *"The degree of responsibility you take for your life determines how much change you can create in it."*
-> — Celestine Chua
+> *"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."*
+> — Elon Musk
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $65,045 | 🟢 +1.06% |
-| Ethereum | $1,895.77 | 🟢 +2.02% |
-| Solana | $77.46 | 🟢 +2.26% |
+| Bitcoin | $65,281 | 🟢 +1.26% |
+| Ethereum | $1,903.34 | 🟢 +2.02% |
+| Solana | $77.86 | 🟢 +2.30% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 383,588 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 258,108 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 231,520 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 217,709 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,841 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 383,592 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 258,125 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 231,538 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 217,740 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,843 |
 
 ---
 
 ### 🎲 Fun Fact
-Half of all Americans live within 50 miles of their birthplace.
+Hannibal had only one eye after getting a disease while attacking Rome.
 
 ---
 
-*Last updated: 2026-07-20 19:48 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-07-20 21:08 UTC · [See all daily snapshots](data/)*
