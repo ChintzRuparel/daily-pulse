@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20 12:17 UTC",
+  "fetched_at": "2026-07-20 17:58 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-20",
     "title": "NGC 3576: The Statue of Liberty Nebula",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 383554,
+      "stars": 383583,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 257938,
+      "stars": 258086,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 231416,
+      "stars": 231500,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 217543,
+      "stars": 217674,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194837,
+      "stars": 194844,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "Truth is exact correspondence with reality.",
-    "author": "Paramahansa Yogananda"
+    "text": "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.",
+    "author": "Robert Frost"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64720,
-      "change_24h": 0.62
+      "usd": 65512,
+      "change_24h": 1.53
     },
     "ethereum": {
-      "usd": 1878.77,
-      "change_24h": 0.65
+      "usd": 1906.11,
+      "change_24h": 2.08
     },
     "solana": {
-      "usd": 76.79,
-      "change_24h": 1.31
+      "usd": 77.63,
+      "change_24h": 2.25
     }
   },
-  "fun_fact": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`"
+  "fun_fact": "Yo-yos were used as weapons by warriors in the Philippines in the 16th century."
 }
