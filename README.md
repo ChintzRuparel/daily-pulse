@@ -12,34 +12,34 @@ What's happening in the Statue of Liberty nebula?  Bright stars and interesting 
 ---
 
 ### 💬 Quote of the Day
-> *"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."*
-> — Robert Frost
+> *"The degree of responsibility you take for your life determines how much change you can create in it."*
+> — Celestine Chua
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $65,512 | 🟢 +1.53% |
-| Ethereum | $1,906.11 | 🟢 +2.08% |
-| Solana | $77.63 | 🟢 +2.25% |
+| Bitcoin | $65,045 | 🟢 +1.06% |
+| Ethereum | $1,895.77 | 🟢 +2.02% |
+| Solana | $77.46 | 🟢 +2.26% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 383,583 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 258,086 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 231,500 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 217,674 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,844 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 383,588 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 258,108 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 231,520 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 217,709 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Rust | 194,841 |
 
 ---
 
 ### 🎲 Fun Fact
-Yo-yos were used as weapons by warriors in the Philippines in the 16th century.
+Half of all Americans live within 50 miles of their birthplace.
 
 ---
 
-*Last updated: 2026-07-20 17:58 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-07-20 19:48 UTC · [See all daily snapshots](data/)*

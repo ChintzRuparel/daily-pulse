@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20 17:58 UTC",
+  "fetched_at": "2026-07-20 19:48 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-20",
     "title": "NGC 3576: The Statue of Liberty Nebula",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 383583,
+      "stars": 383588,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 258086,
+      "stars": 258108,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 231500,
+      "stars": 231520,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 217674,
+      "stars": 217709,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "ultraworkers/claw-code",
       "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human inte",
-      "stars": 194844,
+      "stars": 194841,
       "language": "Rust",
       "url": "https://github.com/ultraworkers/claw-code"
     }
   ],
   "quote_of_the_day": {
-    "text": "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.",
-    "author": "Robert Frost"
+    "text": "The degree of responsibility you take for your life determines how much change you can create in it.",
+    "author": "Celestine Chua"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 65512,
-      "change_24h": 1.53
+      "usd": 65045,
+      "change_24h": 1.06
     },
     "ethereum": {
-      "usd": 1906.11,
-      "change_24h": 2.08
+      "usd": 1895.77,
+      "change_24h": 2.02
     },
     "solana": {
-      "usd": 77.63,
-      "change_24h": 2.25
+      "usd": 77.46,
+      "change_24h": 2.26
     }
   },
-  "fun_fact": "Yo-yos were used as weapons by warriors in the Philippines in the 16th century."
+  "fun_fact": "Half of all Americans live within 50 miles of their birthplace."
 }
