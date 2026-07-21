@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-07-21 08:22 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-07-21",
+    "title": "Turtle Rock on Mars",
+    "explanation": "Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last month during its 4922nd Martian day exploring Mars.  The small butte may survive because it was som…",
+    "url": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 383635,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 258425,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 231670,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 218028,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa",
+      "stars": 194852,
+      "language": null,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Goals are the fuel in the furnace of achievement.",
+    "author": "Brian Tracy"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 66254,
+      "change_24h": 3.23
+    },
+    "ethereum": {
+      "usd": 1943.65,
+      "change_24h": 4.36
+    },
+    "solana": {
+      "usd": 78.52,
+      "change_24h": 3.02
+    }
+  },
+  "fun_fact": "The longest word comprised of one row on the keyboard is: TYPEWRITER"
+}
