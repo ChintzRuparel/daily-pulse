@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25 17:55 UTC",
+  "fetched_at": "2026-07-25 20:47 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-07-25",
     "title": "Tranquility and Serenity",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 384100,
+      "stars": 384113,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 260971,
+      "stars": 261016,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 233187,
+      "stars": 233245,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 220354,
+      "stars": 220397,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa",
-      "stars": 196238,
+      "stars": 196267,
       "language": null,
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Absorb what is useful, discard what is not, add what is uniquely your own.",
-    "author": "Bruce Lee"
+    "text": "When a man is penalized for honesty he learns to lie.",
+    "author": "Criss Jami"
   },
   "crypto_prices": {
     "ethereum": {
-      "usd": 1870.45,
-      "change_24h": 0.39
+      "usd": 1869.79,
+      "change_24h": 0.53
     },
     "solana": {
-      "usd": 74.43,
-      "change_24h": 0.61
+      "usd": 74.41,
+      "change_24h": 0.9
     },
     "bitcoin": {
-      "usd": 64215,
-      "change_24h": 0.17
+      "usd": 64271,
+      "change_24h": 0.22
     }
   },
-  "fun_fact": "Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain."
+  "fun_fact": "The pupils of a goat`s eyes are square."
 }
