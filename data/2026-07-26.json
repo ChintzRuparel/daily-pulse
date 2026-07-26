@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-07-26 09:09 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-07-26",
+    "title": "Simulation TNG50: A Galaxy Cluster Forms",
+    "explanation": "How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (mostly hydrogen) as it evolves into galaxies and galaxy clusters from the early universe to today, with …",
+    "url": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
+    "media_type": "video"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 384152,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 261293,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 233450,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 220635,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa",
+      "stars": 196376,
+      "language": null,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "How to get more opportunity: Create more opportunity for others.",
+    "author": "Jack Butcher"
+  },
+  "crypto_prices": {
+    "ethereum": {
+      "usd": 1881.76,
+      "change_24h": 1.62
+    },
+    "solana": {
+      "usd": 75.03,
+      "change_24h": 1.74
+    },
+    "bitcoin": {
+      "usd": 64454,
+      "change_24h": 1.04
+    }
+  },
+  "fun_fact": "Beethoven dipped his head in cold water before he composed."
+}
