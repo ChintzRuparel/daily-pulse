@@ -1,0 +1,90 @@
+name: Batch Snapshot (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_count:
+        description: "How many commits to create (1-50)"
+        required: true
+        type: string
+        default: "25"
+      spread_hours:
+        description: "Spread timestamps over the last N hours (0 = all at run time)"
+        required: false
+        type: string
+        default: "0"
+      message_prefix:
+        description: "Commit message prefix"
+        required: false
+        type: string
+        default: "data"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: batch-snapshot
+  cancel-in-progress: false
+
+jobs:
+  batch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure git identity
+        run: |
+          # Must match a VERIFIED email on your GitHub account, or the
+          # commits will not count as your contributions.
+          git config user.name  "ChintzRuparel"
+          git config user.email "YOUR_VERIFIED_EMAIL@users.noreply.github.com"
+
+      - name: Create commits
+        env:
+          COUNT:  ${{ inputs.commit_count }}
+          SPREAD: ${{ inputs.spread_hours }}
+          PREFIX: ${{ inputs.message_prefix }}
+        run: |
+          set -euo pipefail
+
+          # --- sanitize + clamp inputs -------------------------------------
+          n="${COUNT//[^0-9]/}";   n="${n:-25}"
+          s="${SPREAD//[^0-9]/}";  s="${s:-0}"
+          (( n < 1  )) && n=1
+          (( n > 50 )) && n=50
+
+          echo "Creating $n commits (spread over ${s}h)"
+
+          mkdir -p logs
+          log="logs/batch-$(date -u +%Y-%m-%d).log"
+          now=$(date -u +%s)
+
+          messages=(
+            "routine data fetch"
+            "update snapshot"
+            "refresh cached feed"
+            "recompute daily rollup"
+            "sync upstream values"
+            "prune stale entries"
+          )
+
+          for i in $(seq 1 "$n"); do
+            if (( s > 0 )); then
+              # oldest first, so history reads chronologically forward
+              offset=$(( (n - i) * s * 3600 / n ))
+            else
+              offset=0
+            fi
+            ts=$(date -u -d "@$(( now - offset ))" +"%Y-%m-%dT%H:%M:%S+00:00")
+
+            msg="${messages[$(( RANDOM % ${#messages[@]} ))]}"
+            printf '%s  seq=%03d/%03d  %s\n' "$ts" "$i" "$n" "$msg" >> "$log"
+
+            git add "$log"
+            GIT_AUTHOR_DATE="$ts" GIT_COMMITTER_DATE="$ts" \
+              git commit -q -m "${PREFIX}: ${msg}"
+          done
+
+          # single push at the end — far faster than pushing per commit
+          git push
+          echo "Pushed $n commits."
