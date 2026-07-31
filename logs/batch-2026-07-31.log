@@ -2,3 +2,4 @@
 2026-07-31T07:07:35+00:00  seq=002/040  sync upstream values
 2026-07-31T07:18:05+00:00  seq=003/040  recompute daily rollup
 2026-07-31T07:28:35+00:00  seq=004/040  refresh cached feed
+2026-07-31T07:39:05+00:00  seq=005/040  update snapshot
