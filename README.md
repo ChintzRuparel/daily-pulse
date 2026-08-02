@@ -12,34 +12,34 @@ What's happening to this cloud? Ice crystals in a distant cirrus cloud are actin
 ---
 
 ### 💬 Quote of the Day
-> *"Aim for the moon. If you miss, you may hit a star."*
-> — W. Clement Stone
+> *"When you judge another, you do not define them, you define yourself"*
+> — Wayne Dyer
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $63,134 | 🟢 +0.24% |
-| Ethereum | $1,866.25 | 🟢 +0.18% |
-| Solana | $73.16 | 🟢 +0.56% |
+| Bitcoin | $63,026 | 🟢 +0.00% |
+| Ethereum | $1,853.51 | 🔴 -0.73% |
+| Solana | $72.76 | 🔴 -0.21% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 384,883 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 264,931 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 236,904 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 224,033 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 199,362 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 384,910 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 264,994 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 236,929 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 224,112 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 199,480 |
 
 ---
 
 ### 🎲 Fun Fact
-Mr. Rogers was an ordained minister. 
+A standard slinky measures 87 feet when stretched out.
 
 ---
 
-*Last updated: 2026-08-02 10:37 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-08-02 13:45 UTC · [See all daily snapshots](data/)*
