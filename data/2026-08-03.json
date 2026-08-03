@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03 18:48 UTC",
+  "fetched_at": "2026-08-03 20:24 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-08-03",
     "title": "Vaporizing Meteor Photobombs the Lacerta Nebula",
@@ -18,49 +18,49 @@
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 265634,
+      "stars": 265657,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 237273,
+      "stars": 237295,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 224799,
+      "stars": 224832,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 201216,
+      "stars": 201322,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "If you aim at nothing, you will hit it every time.",
-    "author": "Zig Ziglar"
+    "text": "You win more from losing than winning.",
+    "author": "Morgan Wootten"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63762,
-      "change_24h": 0.57
+      "usd": 63936,
+      "change_24h": 0.86
     },
     "ethereum": {
-      "usd": 1866.4,
-      "change_24h": -0.6
+      "usd": 1873.03,
+      "change_24h": -0.33
     },
     "solana": {
-      "usd": 73.89,
-      "change_24h": 0.4
+      "usd": 74.04,
+      "change_24h": 0.69
     }
   },
-  "fun_fact": "Shakespeare spelled his OWN name several different ways."
+  "fun_fact": "Deborah Winger did the voice of E.T."
 }

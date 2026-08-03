@@ -12,17 +12,17 @@ What's happening to this meteor? This bright meteor streak appeared and disappea
 ---
 
 ### 💬 Quote of the Day
-> *"If you aim at nothing, you will hit it every time."*
-> — Zig Ziglar
+> *"You win more from losing than winning."*
+> — Morgan Wootten
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $63,762 | 🟢 +0.57% |
-| Ethereum | $1,866.4 | 🔴 -0.60% |
-| Solana | $73.89 | 🟢 +0.40% |
+| Bitcoin | $63,936 | 🟢 +0.86% |
+| Ethereum | $1,873.03 | 🔴 -0.33% |
+| Solana | $74.04 | 🟢 +0.69% |
 
 ---
 
@@ -30,16 +30,16 @@ What's happening to this meteor? This bright meteor streak appeared and disappea
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 385,043 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 265,634 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 237,273 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 224,799 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 201,216 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 265,657 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 237,295 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 224,832 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 201,322 |
 
 ---
 
 ### 🎲 Fun Fact
-Shakespeare spelled his OWN name several different ways.
+Deborah Winger did the voice of E.T.
 
 ---
 
-*Last updated: 2026-08-03 18:48 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-08-03 20:24 UTC · [See all daily snapshots](data/)*
