@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-03 18:48 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-03",
+    "title": "Vaporizing Meteor Photobombs the Lacerta Nebula",
+    "explanation": "What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in Earth's atmosphere, but itself vaporizes and leaves wind-blown gas and dust with colors that give c…",
+    "url": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 385043,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 265634,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 237273,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 224799,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 201216,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "If you aim at nothing, you will hit it every time.",
+    "author": "Zig Ziglar"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 63762,
+      "change_24h": 0.57
+    },
+    "ethereum": {
+      "usd": 1866.4,
+      "change_24h": -0.6
+    },
+    "solana": {
+      "usd": 73.89,
+      "change_24h": 0.4
+    }
+  },
+  "fun_fact": "Shakespeare spelled his OWN name several different ways."
+}
