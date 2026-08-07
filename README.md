@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-08-03
+## 📅 Latest snapshot — 2026-08-07
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Vaporizing Meteor Photobombs the Lacerta Nebula**
-What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in Earth's atmosphere, but itself vaporizes and leaves wind-blown gas and dust with colors that give c…
-[View full image →](https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg)
+**N/A**
+
+[View full image →](#)
 
 ---
 
 ### 💬 Quote of the Day
-> *"You win more from losing than winning."*
-> — Morgan Wootten
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> — Harold Abelson
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $63,936 | 🟢 +0.86% |
-| Ethereum | $1,873.03 | 🔴 -0.33% |
-| Solana | $74.04 | 🟢 +0.69% |
+| Bitcoin | $64,541 | 🔴 -0.53% |
+| Ethereum | $1,908.46 | 🔴 -0.26% |
+| Solana | $73.11 | 🔴 -1.11% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 385,043 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 265,657 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 237,295 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 224,832 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 201,322 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 385,430 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 268,378 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 238,407 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 226,791 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 207,862 |
 
 ---
 
 ### 🎲 Fun Fact
-Deborah Winger did the voice of E.T.
+In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
 
 ---
 
-*Last updated: 2026-08-03 20:24 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-08-07 08:55 UTC · [See all daily snapshots](data/)*
