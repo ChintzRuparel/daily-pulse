@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-08-07 08:55 UTC",
+  "fetched_at": "2026-08-07 11:46 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-08-07",
+    "title": "Rubin's COSMOS field",
+    "explanation": "There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb and other telescopes because it contains comparatively few bright stars from our own galaxy, offering a relatively unimped…",
+    "url": "https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385430,
+      "stars": 385446,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 268378,
+      "stars": 268463,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 238407,
+      "stars": 238448,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 226791,
+      "stars": 226859,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 207862,
+      "stars": 208075,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
-    "author": "Harold Abelson"
+    "text": "If you want peace, accept. If you want suffering, expect.",
+    "author": "Maxime Lagace"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64541,
-      "change_24h": -0.53
+      "usd": 65002,
+      "change_24h": 0.66
     },
     "ethereum": {
-      "usd": 1908.46,
-      "change_24h": -0.26
+      "usd": 1915.09,
+      "change_24h": 0.44
     },
     "solana": {
-      "usd": 73.11,
-      "change_24h": -1.11
+      "usd": 73.6,
+      "change_24h": 0.2
     }
   },
-  "fun_fact": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes."
+  "fun_fact": "In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools."
 }
