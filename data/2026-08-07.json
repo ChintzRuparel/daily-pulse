@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07 11:46 UTC",
+  "fetched_at": "2026-08-07 12:55 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-08-07",
     "title": "Rubin's COSMOS field",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385446,
+      "stars": 385449,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 268463,
+      "stars": 268501,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 238448,
+      "stars": 238459,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 226859,
+      "stars": 226882,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 208075,
+      "stars": 208160,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "If you want peace, accept. If you want suffering, expect.",
-    "author": "Maxime Lagace"
+    "text": "To know even one life has breathed easier because you have lived. This is to have succeeded.",
+    "author": "Ralph Waldo Emerson"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 65002,
-      "change_24h": 0.66
+      "usd": 65252,
+      "change_24h": 1.29
     },
     "ethereum": {
-      "usd": 1915.09,
-      "change_24h": 0.44
+      "usd": 1931.73,
+      "change_24h": 1.61
     },
     "solana": {
-      "usd": 73.6,
-      "change_24h": 0.2
+      "usd": 73.85,
+      "change_24h": 0.87
     }
   },
-  "fun_fact": "In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools."
+  "fun_fact": "Daniel Boone hated coonskin caps."
 }
