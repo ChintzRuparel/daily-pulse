@@ -1,62 +1,30 @@
 {
-  "fetched_at": "2026-08-08 12:40 UTC",
+  "fetched_at": "2026-08-08 13:42 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-08-08",
+    "title": "A Messier Moment for Tempel 2",
+    "explanation": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects h…",
+    "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
+    "media_type": "image"
   },
-  "trending_github_repos": [
-    {
-      "name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385532,
-      "language": "TypeScript",
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 269056,
-      "language": "Shell",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 238696,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 227301,
-      "language": "Python",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 209468,
-      "language": "Shell",
-      "url": "https://github.com/mattpocock/skills"
-    }
-  ],
+  "trending_github_repos": [],
   "quote_of_the_day": {
-    "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-    "author": "Carl Jung"
+    "text": "What do we live for, if it is not to make life less difficult for each other?",
+    "author": "George Eliot"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64962,
-      "change_24h": -0.17
+      "usd": 64965,
+      "change_24h": -0.41
     },
     "ethereum": {
-      "usd": 1918.84,
-      "change_24h": -0.4
+      "usd": 1917.76,
+      "change_24h": -0.68
     },
     "solana": {
-      "usd": 75.37,
-      "change_24h": 2.27
+      "usd": 75.42,
+      "change_24h": 1.72
     }
   },
-  "fun_fact": "In 1984, a Canadian farmer began renting advertising space on his cows."
+  "fun_fact": "Annual growth of WWW traffic is 314,000%"
 }
