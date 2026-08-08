@@ -1,66 +1,62 @@
 {
-  "fetched_at": "2026-08-08 19:25 UTC",
+  "fetched_at": "2026-08-08 20:25 UTC",
   "astronomy_picture_of_the_day": {
-    "date": "2026-08-08",
-    "title": "A Messier Moment for Tempel 2",
-    "explanation": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects h…",
-    "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
-    "media_type": "image"
+    "error": "unavailable"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385563,
+      "stars": 385567,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 269243,
+      "stars": 269253,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 238779,
+      "stars": 238789,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 227454,
+      "stars": 227475,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 209819,
+      "stars": 209860,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "A day wasted on others is not wasted on one's self.",
-    "author": "Charles Dickens"
+    "text": "It is only depth of character that determines the profundity with which we face life.",
+    "author": "Ming-Dao Deng"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64975,
-      "change_24h": 0.12
+      "usd": 65014,
+      "change_24h": 0.1
     },
     "ethereum": {
-      "usd": 1919.68,
-      "change_24h": 0.21
+      "usd": 1918.59,
+      "change_24h": 0.12
     },
     "solana": {
-      "usd": 76.0,
-      "change_24h": 2.98
+      "usd": 76.12,
+      "change_24h": 2.83
     }
   },
-  "fun_fact": "Gabriel, Michael, and Lucifer are the only angels named in the Bible."
+  "fun_fact": "Hannibal had only one eye after getting a disease while attacking Rome."
 }
