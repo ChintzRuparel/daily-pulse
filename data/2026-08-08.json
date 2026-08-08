@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-08 11:24 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-08",
+    "title": "A Messier Moment for Tempel 2",
+    "explanation": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects h…",
+    "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 385530,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 269025,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 238683,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 227274,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 209387,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.",
+    "author": "Paramahansa Yogananda"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 64947,
+      "change_24h": -0.28
+    },
+    "ethereum": {
+      "usd": 1919.15,
+      "change_24h": 0.03
+    },
+    "solana": {
+      "usd": 75.29,
+      "change_24h": 2.16
+    }
+  },
+  "fun_fact": "The mask worn by Michael Myers in the original \"Halloween\" was actually a Captain Kirk mask painted white."
+}
