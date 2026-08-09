@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-09 10:30 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-09",
+    "title": "Contemplating the Sun",
+    "explanation": "Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded on the unusual event to interested gat…",
+    "url": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 385635,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 269506,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 238896,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 227714,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 210513,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "You are not only responsible for what you say, but also for what you do not say.",
+    "author": "Martin Luther"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 64903,
+      "change_24h": -0.11
+    },
+    "ethereum": {
+      "usd": 1919.44,
+      "change_24h": -0.07
+    },
+    "solana": {
+      "usd": 76.47,
+      "change_24h": 2.05
+    }
+  },
+  "fun_fact": "In the 17th century, the value of pi was known to 35 decimal places. Today, to 1.2411 trillion."
+}
