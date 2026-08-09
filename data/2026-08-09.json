@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09 11:25 UTC",
+  "fetched_at": "2026-08-09 15:27 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385642,
+      "stars": 385665,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 269521,
+      "stars": 269601,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 238903,
+      "stars": 238952,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 227730,
+      "stars": 227812,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 210551,
+      "stars": 210774,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Truth is like the sun. You can shut it out for a time, but it ain't going away.",
-    "author": "Elvis Presley"
+    "text": "You Create Your Own Present By What You Give Your Attention To Today.",
+    "author": "Spencer Johnson"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64931,
-      "change_24h": -0.02
+      "usd": 65196,
+      "change_24h": 0.23
     },
     "ethereum": {
-      "usd": 1919.48,
-      "change_24h": 0.04
+      "usd": 1925.28,
+      "change_24h": 0.2
     },
     "solana": {
-      "usd": 76.38,
-      "change_24h": 1.5
+      "usd": 76.81,
+      "change_24h": 0.36
     }
   },
-  "fun_fact": "If you keep a goldfish in the dark room, it will eventually turn white."
+  "fun_fact": "About 500 movies are made in the US and 800 in India annually."
 }
