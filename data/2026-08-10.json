@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-10 18:52 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-10",
+    "title": "Three Galaxy Pairs",
+    "explanation": "ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally -- but their relative speeds make this un…",
+    "url": "https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 385809,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 270160,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 239193,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 228364,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 212405,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "If you always do what you've always done, you'll always get what you've always got.",
+    "author": "Henry Ford"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 63841,
+      "change_24h": -2.03
+    },
+    "ethereum": {
+      "usd": 1869.63,
+      "change_24h": -2.62
+    },
+    "solana": {
+      "usd": 75.74,
+      "change_24h": -1.82
+    }
+  },
+  "fun_fact": "Most dust particles in your house are made from dead skin."
+}
