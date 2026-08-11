@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-08-10
+## 📅 Latest snapshot — 2026-08-11
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Three Galaxy Pairs**
-ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally -- but their relative speeds make this un…
-[View full image →](https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg)
+**N/A**
+
+[View full image →](#)
 
 ---
 
 ### 💬 Quote of the Day
-> *"If you always do what you've always done, you'll always get what you've always got."*
-> — Henry Ford
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> — Harold Abelson
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $63,841 | 🔴 -2.03% |
-| Ethereum | $1,869.63 | 🔴 -2.62% |
-| Solana | $75.74 | 🔴 -1.82% |
+| Bitcoin | $64,200 | 🔴 -1.12% |
+| Ethereum | $1,880.26 | 🔴 -1.85% |
+| Solana | $75.7 | 🔴 -1.13% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 385,809 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 270,160 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 239,193 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 228,364 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 212,405 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 385,883 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 270,502 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 239,330 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 228,719 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 213,191 |
 
 ---
 
 ### 🎲 Fun Fact
-Most dust particles in your house are made from dead skin.
+Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. 
 
 ---
 
-*Last updated: 2026-08-10 18:52 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-08-11 09:57 UTC · [See all daily snapshots](data/)*
