@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17 10:28 UTC",
+  "fetched_at": "2026-08-17 12:36 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 386507,
+      "stars": 386514,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 272987,
+      "stars": 273037,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 240589,
+      "stars": 240599,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 231749,
+      "stars": 231793,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 219819,
+      "stars": 219923,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
-    "author": "Samuel Beckett"
+    "text": "Life may be full of pain but that's not an excuse to give up.",
+    "author": "Arnold Schwarzenegger"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63273,
-      "change_24h": 0.52
+      "usd": 63544,
+      "change_24h": 0.94
     },
     "ethereum": {
-      "usd": 1891.13,
-      "change_24h": 0.68
+      "usd": 1898.35,
+      "change_24h": 1.07
     },
     "solana": {
-      "usd": 75.26,
-      "change_24h": 0.13
+      "usd": 75.39,
+      "change_24h": 0.25
     }
   },
-  "fun_fact": "Greenland is the largest island in the world."
+  "fun_fact": "The original name for butterfly was flutterby."
 }
