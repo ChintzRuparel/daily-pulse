@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-08-17 13:36 UTC",
+  "fetched_at": "2026-08-17 15:21 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-08-17",
+    "title": "A Golden Corona Eclipse",
+    "explanation": "This total solar eclipse appeared not only poetically beautiful but scientifically interesting.  Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color.  But this time, totality observers in Spain saw a corona that appeared unusually golden.  For one reason, from Spain, the totality occurred when the setting Sun was …",
+    "url": "https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 386517,
+      "stars": 386525,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 273053,
+      "stars": 273073,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 240610,
+      "stars": 240619,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 231817,
+      "stars": 231856,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 219964,
+      "stars": 220043,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.",
-    "author": "Robert Kiyosaki"
+    "text": "The fastest way to change is to laugh at your own folly.",
+    "author": "Spencer Johnson"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63649,
-      "change_24h": 1.01
+      "usd": 63780,
+      "change_24h": 1.15
     },
     "ethereum": {
-      "usd": 1903.96,
-      "change_24h": 1.27
+      "usd": 1903.32,
+      "change_24h": 1.13
     },
     "solana": {
-      "usd": 75.52,
-      "change_24h": 0.25
+      "usd": 75.78,
+      "change_24h": 0.51
     }
   },
-  "fun_fact": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000"
+  "fun_fact": "Paraskevidekatriaphobia means fear of Friday the 13th, which occurs one to three times a year."
 }
