@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17 18:33 UTC",
+  "fetched_at": "2026-08-17 19:24 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-08-17",
     "title": "A Golden Corona Eclipse",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 386543,
+      "stars": 386552,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 273142,
+      "stars": 273158,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 240651,
+      "stars": 240662,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 231926,
+      "stars": 231941,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 220157,
+      "stars": 220191,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Life is what happens to you while you're busy making other plans.",
-    "author": "John Lennon"
+    "text": "You can't build a reputation on what you are going to do.",
+    "author": "Henry Ford"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64419,
-      "change_24h": 2.09
+      "usd": 64298,
+      "change_24h": 1.85
     },
     "ethereum": {
-      "usd": 1908.28,
-      "change_24h": 1.27
+      "usd": 1905.62,
+      "change_24h": 1.11
     },
     "solana": {
-      "usd": 75.94,
-      "change_24h": 1.12
+      "usd": 75.73,
+      "change_24h": 0.64
     }
   },
-  "fun_fact": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word."
+  "fun_fact": "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`"
 }
