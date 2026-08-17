@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17 12:36 UTC",
+  "fetched_at": "2026-08-17 13:36 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 386514,
+      "stars": 386517,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 273037,
+      "stars": 273053,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 240599,
+      "stars": 240610,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 231793,
+      "stars": 231817,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 219923,
+      "stars": 219964,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Life may be full of pain but that's not an excuse to give up.",
-    "author": "Arnold Schwarzenegger"
+    "text": "Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.",
+    "author": "Robert Kiyosaki"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 63544,
-      "change_24h": 0.94
+      "usd": 63649,
+      "change_24h": 1.01
     },
     "ethereum": {
-      "usd": 1898.35,
-      "change_24h": 1.07
+      "usd": 1903.96,
+      "change_24h": 1.27
     },
     "solana": {
-      "usd": 75.39,
+      "usd": 75.52,
       "change_24h": 0.25
     }
   },
-  "fun_fact": "The original name for butterfly was flutterby."
+  "fun_fact": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000"
 }
