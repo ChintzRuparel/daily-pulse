@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-08-17
+## 📅 Latest snapshot — 2026-08-18
 
 ### 🔭 NASA Astronomy Picture of the Day
-**A Golden Corona Eclipse**
-This total solar eclipse appeared not only poetically beautiful but scientifically interesting.  Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color.  But this time, totality observers in Spain saw a corona that appeared unusually golden.  For one reason, from Spain, the totality occurred when the setting Sun was …
-[View full image →](https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg)
+**Perseids from Perseus**
+This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain. The Perseids occur when the Earth colli…
+[View full image →](https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"You can't build a reputation on what you are going to do."*
-> — Henry Ford
+> *"Go as far as you can see and you will see further."*
+> — Zig Ziglar
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $64,298 | 🟢 +1.85% |
-| Ethereum | $1,905.62 | 🟢 +1.11% |
-| Solana | $75.73 | 🟢 +0.64% |
+| Bitcoin | $64,043 | 🟢 +0.59% |
+| Ethereum | $1,893.58 | 🔴 -0.59% |
+| Solana | $76.03 | 🟢 +0.55% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 386,552 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 273,158 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 240,662 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 231,941 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 220,191 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 386,634 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 273,494 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 240,840 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 232,357 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 221,072 |
 
 ---
 
 ### 🎲 Fun Fact
-A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`
+Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.
 
 ---
 
-*Last updated: 2026-08-17 19:24 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-08-18 13:38 UTC · [See all daily snapshots](data/)*
