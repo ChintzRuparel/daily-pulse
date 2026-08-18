@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18 13:38 UTC",
+  "fetched_at": "2026-08-18 14:29 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-08-18",
     "title": "Perseids from Perseus",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 386634,
+      "stars": 386635,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 273494,
+      "stars": 273509,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 240840,
+      "stars": 240848,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 232357,
+      "stars": 232376,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 221072,
+      "stars": 221123,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Go as far as you can see and you will see further.",
-    "author": "Zig Ziglar"
+    "text": "The wisest men follow their own direction.",
+    "author": "Euripides"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 64043,
-      "change_24h": 0.59
+      "usd": 64835,
+      "change_24h": 2.03
     },
     "ethereum": {
-      "usd": 1893.58,
-      "change_24h": -0.59
+      "usd": 1910.77,
+      "change_24h": 0.73
     },
     "solana": {
-      "usd": 76.03,
-      "change_24h": 0.55
+      "usd": 76.69,
+      "change_24h": 1.49
     }
   },
-  "fun_fact": "Every year 11,000 Americans injure themselves while trying out bizarre sexual positions."
+  "fun_fact": "No word in the English language rhymes with month, orange, silver, or purple."
 }
