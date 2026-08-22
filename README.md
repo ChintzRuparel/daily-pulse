@@ -12,34 +12,34 @@ Recorded the night of August 12-13, images from four dedicated meteor-monitoring
 ---
 
 ### 💬 Quote of the Day
-> *"Dance first. Think later. It's the natural order."*
-> — Samuel Beckett
+> *"Invest in as much of yourself as you can, you are your own biggest asset by far."*
+> — Warren Buffett
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $76,856 | 🔴 -0.75% |
-| Ethereum | $2,409.66 | 🟢 +1.11% |
-| Solana | $92.76 | 🟢 +2.03% |
+| Bitcoin | $77,088 | 🟢 +0.01% |
+| Ethereum | $2,416.72 | 🟢 +1.01% |
+| Solana | $93.54 | 🟢 +2.74% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 387,094 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 275,867 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 241,958 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 234,175 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 230,669 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 387,119 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 276,010 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 242,046 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 234,280 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 231,335 |
 
 ---
 
 ### 🎲 Fun Fact
-The first streetlights in America were installed in Philadelphia around 1757.
+The king of hearts is the only king without a mustache.
 
 ---
 
-*Last updated: 2026-08-22 11:16 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-08-22 16:18 UTC · [See all daily snapshots](data/)*
