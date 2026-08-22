@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-22 11:16 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-22",
+    "title": "Mostly Perseids",
+    "explanation": "Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their overwhelming numbers make them easy to sp…",
+    "url": "https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 387094,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 275867,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 241958,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 234175,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 230669,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Dance first. Think later. It's the natural order.",
+    "author": "Samuel Beckett"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 76856,
+      "change_24h": -0.75
+    },
+    "ethereum": {
+      "usd": 2409.66,
+      "change_24h": 1.11
+    },
+    "solana": {
+      "usd": 92.76,
+      "change_24h": 2.03
+    }
+  },
+  "fun_fact": "The first streetlights in America were installed in Philadelphia around 1757."
+}
