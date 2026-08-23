@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23 12:32 UTC",
+  "fetched_at": "2026-08-23 13:29 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-08-23",
     "title": "Cassini Approaches Saturn",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 387207,
+      "stars": 387213,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 276491,
+      "stars": 276510,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 242366,
+      "stars": 242379,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 234618,
+      "stars": 234662,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 233193,
+      "stars": 233257,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     }
   ],
   "quote_of_the_day": {
-    "text": "Nothing is more real than nothing.",
-    "author": "Samuel Beckett"
+    "text": "You are the average of the five people you spend most time with.",
+    "author": "Jim Rohn"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 77033,
-      "change_24h": -0.35
+      "usd": 77528,
+      "change_24h": 0.44
     },
     "ethereum": {
-      "usd": 2422.12,
-      "change_24h": -0.51
+      "usd": 2460.9,
+      "change_24h": 1.42
     },
     "solana": {
-      "usd": 94.46,
-      "change_24h": 0.34
+      "usd": 95.21,
+      "change_24h": 1.47
     }
   },
-  "fun_fact": "Cats have over one hundred vocal sounds; dogs only have about ten."
+  "fun_fact": "The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle."
 }
