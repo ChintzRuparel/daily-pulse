@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25 09:31 UTC",
+  "fetched_at": "2026-08-25 21:23 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-08-25",
     "title": "Earth's Shadow Visualized with Lunar Eclipses",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 387533,
+      "stars": 387598,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 277287,
+      "stars": 277517,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 243008,
+      "stars": 243173,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 236112,
-      "language": "Python",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 235983,
+      "stars": 236629,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 236374,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
     }
   ],
   "quote_of_the_day": {
-    "text": "To know even one life has breathed easier because you have lived. This is to have succeeded.",
-    "author": "Ralph Waldo Emerson"
+    "text": "If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.",
+    "author": "Celestine Chua"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 79795,
-      "change_24h": 3.09
+      "usd": 78377,
+      "change_24h": -0.68
     },
     "ethereum": {
-      "usd": 2485.13,
-      "change_24h": 1.07
+      "usd": 2428.98,
+      "change_24h": -2.09
     },
     "solana": {
-      "usd": 100.06,
-      "change_24h": 5.74
+      "usd": 96.39,
+      "change_24h": -0.31
     }
   },
-  "fun_fact": "The average human head weighs about 8 pounds."
+  "fun_fact": "Ketchup was sold in the 1830s as medicine."
 }
