@@ -12,3 +12,4 @@
 2026-08-25T16:03:45+00:00  seq=012/025  sync upstream values
 2026-08-25T16:25:21+00:00  seq=013/025  routine data fetch
 2026-08-25T16:46:57+00:00  seq=014/025  routine data fetch
+2026-08-25T17:08:33+00:00  seq=015/025  prune stale entries
