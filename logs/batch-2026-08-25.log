@@ -52,3 +52,4 @@
 2026-08-25T19:52:35+00:00  seq=027/030  recompute daily rollup
 2026-08-25T20:12:35+00:00  seq=028/030  update snapshot
 2026-08-25T20:32:35+00:00  seq=029/030  sync upstream values
+2026-08-25T20:52:35+00:00  seq=030/030  sync upstream values
