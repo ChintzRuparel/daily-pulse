@@ -43,3 +43,4 @@
 2026-08-25T16:52:35+00:00  seq=018/030  prune stale entries
 2026-08-25T17:12:35+00:00  seq=019/030  update snapshot
 2026-08-25T17:32:35+00:00  seq=020/030  prune stale entries
+2026-08-25T17:52:35+00:00  seq=021/030  recompute daily rollup
