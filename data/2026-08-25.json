@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-25 09:31 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-25",
+    "title": "Earth's Shadow Visualized with Lunar Eclipses",
+    "explanation": "What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital technology, though, the images of multiple lunar eclipses can be combined to show Earth's complete sh…",
+    "url": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 387533,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 277287,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 243008,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 236112,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 235983,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "To know even one life has breathed easier because you have lived. This is to have succeeded.",
+    "author": "Ralph Waldo Emerson"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 79795,
+      "change_24h": 3.09
+    },
+    "ethereum": {
+      "usd": 2485.13,
+      "change_24h": 1.07
+    },
+    "solana": {
+      "usd": 100.06,
+      "change_24h": 5.74
+    }
+  },
+  "fun_fact": "The average human head weighs about 8 pounds."
+}
