@@ -37,7 +37,7 @@ jobs:
           # Must match a VERIFIED email on your GitHub account, or the
           # commits will not count as your contributions.
           git config user.name  "ChintzRuparel"
-          git config user.email "YOUR_VERIFIED_EMAIL@users.noreply.github.com"
+          git config user.email "chintz0952@gmail.com"
 
       - name: Create commits
         env:
