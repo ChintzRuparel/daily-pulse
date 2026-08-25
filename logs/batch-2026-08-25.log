@@ -7,3 +7,4 @@
 2026-08-25T14:15:45+00:00  seq=007/025  update snapshot
 2026-08-25T14:37:21+00:00  seq=008/025  routine data fetch
 2026-08-25T14:58:57+00:00  seq=009/025  prune stale entries
+2026-08-25T15:20:33+00:00  seq=010/025  recompute daily rollup
