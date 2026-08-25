@@ -30,3 +30,4 @@
 2026-08-25T12:32:35+00:00  seq=005/030  recompute daily rollup
 2026-08-25T12:52:35+00:00  seq=006/030  routine data fetch
 2026-08-25T13:12:35+00:00  seq=007/030  prune stale entries
+2026-08-25T13:32:35+00:00  seq=008/030  refresh cached feed
