@@ -5,3 +5,4 @@
 2026-08-26T07:31:20+00:00  seq=005/025  prune stale entries
 2026-08-26T08:00:08+00:00  seq=006/025  recompute daily rollup
 2026-08-26T08:28:56+00:00  seq=007/025  refresh cached feed
+2026-08-26T08:57:44+00:00  seq=008/025  sync upstream values
