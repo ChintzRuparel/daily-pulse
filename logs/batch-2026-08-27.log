@@ -3,3 +3,4 @@
 2026-08-27T13:46:47+00:00  seq=003/015  update snapshot
 2026-08-27T14:06:47+00:00  seq=004/015  prune stale entries
 2026-08-27T14:26:47+00:00  seq=005/015  recompute daily rollup
+2026-08-27T14:46:47+00:00  seq=006/015  sync upstream values
