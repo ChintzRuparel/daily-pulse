@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-29 19:09 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-29",
+    "title": "Eclipse Pair",
+    "explanation": "clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lun…",
+    "url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 388000,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 279333,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 244140,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 240880,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 238063,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "There is nothing better than the encouragement of a good friend.",
+    "author": "David Brinkley"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 78242,
+      "change_24h": 0.79
+    },
+    "ethereum": {
+      "usd": 2454.17,
+      "change_24h": 0.88
+    },
+    "solana": {
+      "usd": 105.24,
+      "change_24h": 1.88
+    }
+  },
+  "fun_fact": "Right handed people live, on average, nine years longer than left-handed people"
+}

@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-08-25
+## 📅 Latest snapshot — 2026-08-29
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Earth's Shadow Visualized with Lunar Eclipses**
-What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital technology, though, the images of multiple lunar eclipses can be combined to show Earth's complete sh…
-[View full image →](https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg)
+**Eclipse Pair**
+clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lun…
+[View full image →](https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."*
-> — Celestine Chua
+> *"There is nothing better than the encouragement of a good friend."*
+> — David Brinkley
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $78,377 | 🔴 -0.68% |
-| Ethereum | $2,428.98 | 🔴 -2.09% |
-| Solana | $96.39 | 🔴 -0.31% |
+| Bitcoin | $78,242 | 🟢 +0.79% |
+| Ethereum | $2,454.17 | 🟢 +0.88% |
+| Solana | $105.24 | 🟢 +1.88% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 387,598 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 277,517 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 243,173 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 236,629 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 236,374 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 388,000 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 279,333 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 244,140 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 240,880 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 238,063 |
 
 ---
 
 ### 🎲 Fun Fact
-Ketchup was sold in the 1830s as medicine.
+Right handed people live, on average, nine years longer than left-handed people
 
 ---
 
-*Last updated: 2026-08-25 21:23 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-08-29 19:09 UTC · [See all daily snapshots](data/)*
