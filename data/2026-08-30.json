@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-30 20:30 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-30",
+    "title": "M74: A Grand Design Spiral",
+    "explanation": "If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from arch…",
+    "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 388084,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 279652,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 244632,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 241745,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 238466,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "No matter what happens, always be yourself.",
+    "author": "Dale Carnegie"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 78858,
+      "change_24h": 0.87
+    },
+    "ethereum": {
+      "usd": 2505.07,
+      "change_24h": 2.1
+    },
+    "solana": {
+      "usd": 105.64,
+      "change_24h": 0.39
+    }
+  },
+  "fun_fact": "Babies are most likely to be born on Tuesdays."
+}
