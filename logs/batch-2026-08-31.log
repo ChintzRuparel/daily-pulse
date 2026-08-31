@@ -11,3 +11,4 @@
 2026-08-31T14:17:01+00:00  seq=011/025  sync upstream values
 2026-08-31T14:45:49+00:00  seq=012/025  recompute daily rollup
 2026-08-31T15:14:37+00:00  seq=013/025  prune stale entries
+2026-08-31T15:43:25+00:00  seq=014/025  recompute daily rollup
