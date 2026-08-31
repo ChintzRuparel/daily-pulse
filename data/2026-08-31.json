@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-08-31 22:24 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-08-31",
+    "title": "Launch of the Roman Space Telescope",
+    "explanation": "A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST's main mirror is more curved, its secondary mirror is closer, and its main camera is larger.  The result is that RST can…",
+    "url": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4",
+    "media_type": "video"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 388283,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 280052,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 245197,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 242836,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 238977,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Working hard for something we don't care about is called stress: Working hard for something we love is called passion.",
+    "author": "Simon Sinek"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 78763,
+      "change_24h": 0.44
+    },
+    "ethereum": {
+      "usd": 2470.93,
+      "change_24h": 0.01
+    },
+    "solana": {
+      "usd": 103.28,
+      "change_24h": -0.35
+    }
+  },
+  "fun_fact": "\"I am.\" is the shortest complete sentence in the English language."
+}

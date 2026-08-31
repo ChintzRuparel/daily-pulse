@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-08-30
+## 📅 Latest snapshot — 2026-08-31
 
 ### 🔭 NASA Astronomy Picture of the Day
-**M74: A Grand Design Spiral**
-If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from arch…
-[View full image →](https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg)
+**Launch of the Roman Space Telescope**
+A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST's main mirror is more curved, its secondary mirror is closer, and its main camera is larger.  The result is that RST can…
+[View full image →](https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4)
 
 ---
 
 ### 💬 Quote of the Day
-> *"No matter what happens, always be yourself."*
-> — Dale Carnegie
+> *"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."*
+> — Simon Sinek
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $78,858 | 🟢 +0.87% |
-| Ethereum | $2,505.07 | 🟢 +2.10% |
-| Solana | $105.64 | 🟢 +0.39% |
+| Bitcoin | $78,763 | 🟢 +0.44% |
+| Ethereum | $2,470.93 | 🟢 +0.01% |
+| Solana | $103.28 | 🔴 -0.35% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 388,084 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 279,652 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 244,632 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 241,745 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 238,466 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 388,283 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 280,052 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 245,197 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 242,836 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 238,977 |
 
 ---
 
 ### 🎲 Fun Fact
-Babies are most likely to be born on Tuesdays.
+"I am." is the shortest complete sentence in the English language.
 
 ---
 
-*Last updated: 2026-08-30 20:30 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-08-31 22:24 UTC · [See all daily snapshots](data/)*
