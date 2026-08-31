@@ -17,3 +17,4 @@
 2026-08-31T17:09:49+00:00  seq=017/025  routine data fetch
 2026-08-31T17:38:37+00:00  seq=018/025  refresh cached feed
 2026-08-31T18:07:25+00:00  seq=019/025  refresh cached feed
+2026-08-31T18:36:13+00:00  seq=020/025  prune stale entries
