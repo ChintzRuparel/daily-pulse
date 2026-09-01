@@ -12,34 +12,34 @@ Did you need to be on the right side of this airplane to see this eclipse? No.  
 ---
 
 ### 💬 Quote of the Day
-> *"Time goes from present to past."*
-> — Shunryu Suzuki
+> *"At every moment where language can't go, that's your mind."*
+> — Bodhidharma
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $77,561 | 🔴 -1.26% |
-| Ethereum | $2,435.35 | 🔴 -1.10% |
-| Solana | $101.11 | 🔴 -1.69% |
+| Bitcoin | $77,325 | 🔴 -2.01% |
+| Ethereum | $2,417.09 | 🔴 -2.38% |
+| Solana | $99.93 | 🔴 -3.93% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 388,493 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 280,351 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 245,637 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 243,749 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 239,416 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 388,506 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 280,384 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 245,687 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 243,848 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 239,470 |
 
 ---
 
 ### 🎲 Fun Fact
-The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.
+The shortest British monarch was Charles I, who was 4 feet 9 inches.
 
 ---
 
-*Last updated: 2026-09-01 17:33 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-09-01 20:30 UTC · [See all daily snapshots](data/)*

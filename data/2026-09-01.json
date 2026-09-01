@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01 17:33 UTC",
+  "fetched_at": "2026-09-01 20:30 UTC",
   "astronomy_picture_of_the_day": {
     "date": "2026-09-01",
     "title": "A Plane Lunar Eclipse",
@@ -11,56 +11,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 388493,
+      "stars": 388506,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 280351,
+      "stars": 280384,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 245637,
+      "stars": 245687,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 243749,
+      "stars": 243848,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 239416,
+      "stars": 239470,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     }
   ],
   "quote_of_the_day": {
-    "text": "Time goes from present to past.",
-    "author": "Shunryu Suzuki"
+    "text": "At every moment where language can't go, that's your mind.",
+    "author": "Bodhidharma"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 77561,
-      "change_24h": -1.26
+      "usd": 77325,
+      "change_24h": -2.01
     },
     "ethereum": {
-      "usd": 2435.35,
-      "change_24h": -1.1
+      "usd": 2417.09,
+      "change_24h": -2.38
     },
     "solana": {
-      "usd": 101.11,
-      "change_24h": -1.69
+      "usd": 99.93,
+      "change_24h": -3.93
     }
   },
-  "fun_fact": "The phrase \"rule of thumb\" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb."
+  "fun_fact": "The shortest British monarch was Charles I, who was 4 feet 9 inches."
 }
