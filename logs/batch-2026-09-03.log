@@ -20,3 +20,4 @@
 2026-09-03T19:53:47+00:00  seq=020/025  routine data fetch
 2026-09-03T19:53:47+00:00  seq=021/025  routine data fetch
 2026-09-03T19:53:47+00:00  seq=022/025  prune stale entries
+2026-09-03T19:53:47+00:00  seq=023/025  recompute daily rollup
