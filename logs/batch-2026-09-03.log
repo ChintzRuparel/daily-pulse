@@ -4,3 +4,4 @@
 2026-09-03T19:53:47+00:00  seq=004/025  routine data fetch
 2026-09-03T19:53:47+00:00  seq=005/025  prune stale entries
 2026-09-03T19:53:47+00:00  seq=006/025  sync upstream values
+2026-09-03T19:53:47+00:00  seq=007/025  refresh cached feed
