@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-09-09 22:53 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-09-09",
+    "title": "Witness XZ Andromedae Wink",
+    "explanation": "Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and brighten as the cooler star eclipses its hotter, brighter companion. Analysis of several XZ Andromeda…",
+    "url": "https://apod.nasa.gov/apod/image/2609/xz_and.mp4",
+    "media_type": "video"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 389310,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 283990,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 257834,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 255124,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 243841,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "You get paid in direct proportion to the difficulty of problems you solve.",
+    "author": "Elon Musk"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 78010,
+      "change_24h": -0.68
+    },
+    "ethereum": {
+      "usd": 2453.29,
+      "change_24h": -1.35
+    },
+    "solana": {
+      "usd": 101.18,
+      "change_24h": -2.14
+    }
+  },
+  "fun_fact": "A “2 by 4\" is really 1 1/2 by 3 1/2."
+}
