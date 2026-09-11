@@ -11,3 +11,4 @@
 2026-09-11T14:17:26+00:00  seq=011/020  routine data fetch
 2026-09-11T14:53:26+00:00  seq=012/020  update snapshot
 2026-09-11T15:29:26+00:00  seq=013/020  recompute daily rollup
+2026-09-11T16:05:26+00:00  seq=014/020  sync upstream values
