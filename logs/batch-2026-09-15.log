@@ -5,3 +5,4 @@
 2026-09-15T16:33:01+00:00  seq=005/012  refresh cached feed
 2026-09-15T16:58:01+00:00  seq=006/012  prune stale entries
 2026-09-15T17:23:01+00:00  seq=007/012  refresh cached feed
+2026-09-15T17:48:01+00:00  seq=008/012  sync upstream values
