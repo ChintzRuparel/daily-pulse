@@ -8,3 +8,4 @@
 2026-09-15T17:48:01+00:00  seq=008/012  sync upstream values
 2026-09-15T18:13:01+00:00  seq=009/012  recompute daily rollup
 2026-09-15T18:38:01+00:00  seq=010/012  prune stale entries
+2026-09-15T19:03:01+00:00  seq=011/012  recompute daily rollup
