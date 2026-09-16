@@ -10,3 +10,4 @@
 2026-09-16T18:04:35+00:00  seq=010/018  routine data fetch
 2026-09-16T18:04:35+00:00  seq=011/018  sync upstream values
 2026-09-16T18:04:35+00:00  seq=012/018  recompute daily rollup
+2026-09-16T18:04:35+00:00  seq=013/018  refresh cached feed
