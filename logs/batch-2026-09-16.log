@@ -5,3 +5,4 @@
 2026-09-16T18:04:35+00:00  seq=005/018  routine data fetch
 2026-09-16T18:04:35+00:00  seq=006/018  prune stale entries
 2026-09-16T18:04:35+00:00  seq=007/018  update snapshot
+2026-09-16T18:04:35+00:00  seq=008/018  prune stale entries
