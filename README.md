@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-09-19
+## 📅 Latest snapshot — 2026-09-20
 
 ### 🔭 NASA Astronomy Picture of the Day
-**A Zodiacal Night**
-Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for hardy stargazing and astrophotography enthus…
-[View full image →](https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg)
+**Analemma over the Callanish Stones**
+If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotl…
+[View full image →](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Acknowledging the good that you already have in your life is the foundation for all abundance."*
-> — Eckhart Tolle
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> — Harold Abelson
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $81,017 | 🔴 -0.27% |
-| Ethereum | $2,625.97 | 🔴 -0.43% |
-| Solana | $110.83 | 🔴 -2.52% |
+| Bitcoin | $80,530 | 🔴 -0.91% |
+| Ethereum | $2,579.33 | 🔴 -2.12% |
+| Solana | $108.13 | 🔴 -3.00% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 390,091 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 288,798 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 265,775 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 262,857 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 247,142 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 390,137 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 289,059 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 266,213 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 263,345 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 247,358 |
 
 ---
 
 ### 🎲 Fun Fact
-Ketchup was sold in the 1830s as medicine.
+They NEVER said “Beam me up, Scotty” on Star Trek.
 
 ---
 
-*Last updated: 2026-09-19 21:16 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-09-20 13:56 UTC · [See all daily snapshots](data/)*

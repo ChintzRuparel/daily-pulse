@@ -1,0 +1,66 @@
+{
+  "fetched_at": "2026-09-20 13:56 UTC",
+  "astronomy_picture_of_the_day": {
+    "date": "2026-09-20",
+    "title": "Analemma over the Callanish Stones",
+    "explanation": "If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotl…",
+    "url": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg",
+    "media_type": "image"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 390137,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 289059,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 266213,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 263345,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 247358,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 80530,
+      "change_24h": -0.91
+    },
+    "ethereum": {
+      "usd": 2579.33,
+      "change_24h": -2.12
+    },
+    "solana": {
+      "usd": 108.13,
+      "change_24h": -3.0
+    }
+  },
+  "fun_fact": "They NEVER said “Beam me up, Scotty” on Star Trek."
+}
