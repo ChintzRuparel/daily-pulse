@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-09-20
+## 📅 Latest snapshot — 2026-09-24
 
 ### 🔭 NASA Astronomy Picture of the Day
-**Analemma over the Callanish Stones**
-If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotl…
-[View full image →](https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg)
+**The Ghosts of Five Supernovas**
+The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer).   From left to right, the five supernova remnants visible across the field are G181.1+9…
+[View full image →](https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
-> — Harold Abelson
+> *"Every hour of every day is an unspeakably perfect miracle."*
+> — Walt Whitman
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $80,530 | 🔴 -0.91% |
-| Ethereum | $2,579.33 | 🔴 -2.12% |
-| Solana | $108.13 | 🔴 -3.00% |
+| Bitcoin | $83,685 | 🔴 -1.90% |
+| Ethereum | $2,653.09 | 🔴 -2.20% |
+| Solana | $114.13 | 🔴 -1.73% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 390,137 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 289,059 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 266,213 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 263,345 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 247,358 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 390,376 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 290,999 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 268,858 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 266,504 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 248,589 |
 
 ---
 
 ### 🎲 Fun Fact
-They NEVER said “Beam me up, Scotty” on Star Trek.
+Venus is the only planet that rotates clockwise.
 
 ---
 
-*Last updated: 2026-09-20 13:56 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-09-24 13:09 UTC · [See all daily snapshots](data/)*
