@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-10-02 15:20 UTC",
+  "astronomy_picture_of_the_day": {
+    "error": "unavailable"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 391184,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 294254,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 274458,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 270998,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 250697,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "If there's a definition of freedom, I think it's this: living life on your terms.",
+    "author": "Kamal Ravikant"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 85566,
+      "change_24h": 1.63
+    },
+    "ethereum": {
+      "usd": 2704.47,
+      "change_24h": 0.42
+    },
+    "solana": {
+      "usd": 120.09,
+      "change_24h": 1.95
+    }
+  },
+  "fun_fact": "Adolf Hitler was a vegetarian, and had only ONE testicle."
+}
