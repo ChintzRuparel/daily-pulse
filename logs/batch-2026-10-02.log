@@ -2,3 +2,4 @@
 2026-10-02T20:30:36+00:00  seq=002/010  refresh cached feed
 2026-10-02T20:30:36+00:00  seq=003/010  sync upstream values
 2026-10-02T20:30:36+00:00  seq=004/010  routine data fetch
+2026-10-02T20:30:36+00:00  seq=005/010  recompute daily rollup
