@@ -3,3 +3,4 @@
 2026-10-07T20:57:34+00:00  seq=003/020  recompute daily rollup
 2026-10-07T20:57:34+00:00  seq=004/020  update snapshot
 2026-10-07T20:57:34+00:00  seq=005/020  recompute daily rollup
+2026-10-07T20:57:34+00:00  seq=006/020  prune stale entries
