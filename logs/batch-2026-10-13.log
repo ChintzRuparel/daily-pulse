@@ -16,3 +16,4 @@
 2026-10-13T16:42:50+00:00  seq=011/015  prune stale entries
 2026-10-13T16:42:50+00:00  seq=012/015  recompute daily rollup
 2026-10-13T16:42:50+00:00  seq=013/015  refresh cached feed
+2026-10-13T16:42:50+00:00  seq=014/015  prune stale entries
