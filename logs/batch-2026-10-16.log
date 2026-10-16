@@ -3,3 +3,4 @@
 2026-10-16T18:32:45+00:00  seq=003/018  prune stale entries
 2026-10-16T18:32:45+00:00  seq=004/018  prune stale entries
 2026-10-16T18:32:45+00:00  seq=005/018  update snapshot
+2026-10-16T18:32:45+00:00  seq=006/018  refresh cached feed
