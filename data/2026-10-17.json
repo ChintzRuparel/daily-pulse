@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17 14:54 UTC",
+  "fetched_at": "2026-10-17 17:44 UTC",
   "astronomy_picture_of_the_day": {
     "error": "unavailable"
   },
@@ -7,56 +7,56 @@
     {
       "name": "openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 392261,
+      "stars": 392273,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 301598,
+      "stars": 303958,
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 301029,
+      "stars": 301086,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 294682,
+      "stars": 294839,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 282058,
+      "stars": 282193,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     }
   ],
   "quote_of_the_day": {
-    "text": "If it's not broken, tinker with it till you find out how it works.",
-    "author": "Bob Proctor"
+    "text": "Most of us will do anything to avoid facing ourselves.",
+    "author": "Lolly Daskal"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 81478,
-      "change_24h": -0.82
+      "usd": 81222,
+      "change_24h": -0.31
     },
     "ethereum": {
-      "usd": 2424.9,
-      "change_24h": -1.74
+      "usd": 2405.56,
+      "change_24h": -0.66
     },
     "solana": {
-      "usd": 104.21,
-      "change_24h": -1.7
+      "usd": 103.26,
+      "change_24h": -0.86
     }
   },
-  "fun_fact": "Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as \"tree nuts\"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods."
+  "fun_fact": "Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front."
 }
