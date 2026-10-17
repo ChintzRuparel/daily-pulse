@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-10-17 17:44 UTC",
+  "fetched_at": "2026-10-17 20:03 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-10-17",
+    "title": "NASA Science",
+    "explanation": "Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closes…",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 392273,
+      "stars": 392282,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 303958,
+      "stars": 305554,
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 301086,
+      "stars": 301143,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 294839,
+      "stars": 294953,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 282193,
+      "stars": 282310,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     }
   ],
   "quote_of_the_day": {
-    "text": "Most of us will do anything to avoid facing ourselves.",
-    "author": "Lolly Daskal"
+    "text": "If you believe you can, you can. If you believe you can't, then, well you can't.",
+    "author": "Celestine Chua"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 81222,
-      "change_24h": -0.31
+      "usd": 81546,
+      "change_24h": 0.08
     },
     "ethereum": {
-      "usd": 2405.56,
-      "change_24h": -0.66
+      "usd": 2417.64,
+      "change_24h": 0.42
     },
     "solana": {
-      "usd": 103.26,
-      "change_24h": -0.86
+      "usd": 104.06,
+      "change_24h": 0.66
     }
   },
-  "fun_fact": "Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front."
+  "fun_fact": "Donald Duck comics were banned from Finland because he doesn`t wear pants!"
 }
