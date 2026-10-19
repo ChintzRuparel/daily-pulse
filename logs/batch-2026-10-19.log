@@ -3,3 +3,4 @@
 2026-10-19T21:20:54+00:00  seq=003/012  update snapshot
 2026-10-19T21:20:54+00:00  seq=004/012  sync upstream values
 2026-10-19T21:20:54+00:00  seq=005/012  refresh cached feed
+2026-10-19T21:20:54+00:00  seq=006/012  prune stale entries
