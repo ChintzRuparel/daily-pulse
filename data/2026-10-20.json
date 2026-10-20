@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-10-20 18:18 UTC",
+  "astronomy_picture_of_the_day": {
+    "error": "unavailable"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 392884,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 346083,
+      "language": "TypeScript",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 302506,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 298437,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 284699,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Every act of creation is first an act of destruction.",
+    "author": "Pablo Picasso"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 82614,
+      "change_24h": 0.83
+    },
+    "ethereum": {
+      "usd": 2443.96,
+      "change_24h": 1.95
+    },
+    "solana": {
+      "usd": 106.38,
+      "change_24h": 2.3
+    }
+  },
+  "fun_fact": "February 1865 is the only month in recorded history not to have a full moon."
+}
