@@ -2,7 +2,7 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-10-20
+## 📅 Latest snapshot — 2026-10-21
 
 ### 🔭 NASA Astronomy Picture of the Day
 **N/A**
@@ -12,34 +12,34 @@
 ---
 
 ### 💬 Quote of the Day
-> *"Every act of creation is first an act of destruction."*
-> — Pablo Picasso
+> *"Forever is composed of now's."*
+> — Emily Dickinson
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $82,614 | 🟢 +0.83% |
-| Ethereum | $2,443.96 | 🟢 +1.95% |
-| Solana | $106.38 | 🟢 +2.30% |
+| Bitcoin | $84,694 | 🟢 +2.16% |
+| Ethereum | $2,493.92 | 🟢 +1.51% |
+| Solana | $107.98 | 🟢 +1.20% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 392,884 |
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 346,083 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 302,506 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 298,437 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 284,699 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 392,687 |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 357,201 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 303,130 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 299,796 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 285,638 |
 
 ---
 
 ### 🎲 Fun Fact
-February 1865 is the only month in recorded history not to have a full moon.
+Tom Sawyer was the first novel written on a typewriter.
 
 ---
 
-*Last updated: 2026-10-20 18:18 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-10-21 22:03 UTC · [See all daily snapshots](data/)*
