@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-10-23 12:23 UTC",
+  "astronomy_picture_of_the_day": {
+    "error": "unavailable"
+  },
+  "trending_github_repos": [
+    {
+      "name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 392829,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 370233,
+      "language": "TypeScript",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 303993,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 301417,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 286946,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 81550,
+      "change_24h": -0.28
+    },
+    "ethereum": {
+      "usd": 2396.03,
+      "change_24h": -0.28
+    },
+    "solana": {
+      "usd": 104.43,
+      "change_24h": 0.11
+    }
+  },
+  "fun_fact": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. "
+}

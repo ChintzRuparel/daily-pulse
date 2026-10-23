@@ -2,7 +2,7 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-10-21
+## 📅 Latest snapshot — 2026-10-23
 
 ### 🔭 NASA Astronomy Picture of the Day
 **N/A**
@@ -12,34 +12,34 @@
 ---
 
 ### 💬 Quote of the Day
-> *"Forever is composed of now's."*
-> — Emily Dickinson
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> — Harold Abelson
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $84,694 | 🟢 +2.16% |
-| Ethereum | $2,493.92 | 🟢 +1.51% |
-| Solana | $107.98 | 🟢 +1.20% |
+| Bitcoin | $81,550 | 🔴 -0.28% |
+| Ethereum | $2,396.03 | 🔴 -0.28% |
+| Solana | $104.43 | 🟢 +0.11% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 392,687 |
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 357,201 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 303,130 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 299,796 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 285,638 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 392,829 |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 370,233 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 303,993 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 301,417 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 286,946 |
 
 ---
 
 ### 🎲 Fun Fact
-Tom Sawyer was the first novel written on a typewriter.
+Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. 
 
 ---
 
-*Last updated: 2026-10-21 22:03 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-10-23 12:23 UTC · [See all daily snapshots](data/)*
