@@ -1,62 +1,66 @@
 {
-  "fetched_at": "2026-10-28 10:19 UTC",
+  "fetched_at": "2026-10-28 21:32 UTC",
   "astronomy_picture_of_the_day": {
-    "error": "unavailable"
+    "date": "2026-10-28",
+    "title": "NASA Science",
+    "explanation": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide…",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
   },
   "trending_github_repos": [
     {
       "name": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 399612,
+      "stars": 402090,
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
     },
     {
       "name": "openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 393246,
+      "stars": 393293,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 306857,
+      "stars": 307352,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 305225,
+      "stars": 305703,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 291268,
+      "stars": 291683,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     }
   ],
   "quote_of_the_day": {
-    "text": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.",
-    "author": "Norman Vincent Peale"
+    "text": "Art is to console those who are broken by life.",
+    "author": "Vincent van Gogh"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 81429,
-      "change_24h": 2.45
+      "usd": 81147,
+      "change_24h": 0.54
     },
     "ethereum": {
-      "usd": 2368.27,
-      "change_24h": 3.0
+      "usd": 2356.68,
+      "change_24h": 0.67
     },
     "solana": {
-      "usd": 102.87,
-      "change_24h": 3.67
+      "usd": 102.31,
+      "change_24h": 1.4
     }
   },
-  "fun_fact": "Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992."
+  "fun_fact": "14% of all facts and statistics are made up and 27% of people know that fact."
 }

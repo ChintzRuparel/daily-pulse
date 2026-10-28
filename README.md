@@ -5,41 +5,41 @@
 ## 📅 Latest snapshot — 2026-10-28
 
 ### 🔭 NASA Astronomy Picture of the Day
-**N/A**
-
-[View full image →](#)
+**NASA Science**
+To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide…
+[View full image →](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
 ---
 
 ### 💬 Quote of the Day
-> *"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."*
-> — Norman Vincent Peale
+> *"Art is to console those who are broken by life."*
+> — Vincent van Gogh
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $81,429 | 🟢 +2.45% |
-| Ethereum | $2,368.27 | 🟢 +3.00% |
-| Solana | $102.87 | 🟢 +3.67% |
+| Bitcoin | $81,147 | 🟢 +0.54% |
+| Ethereum | $2,356.68 | 🟢 +0.67% |
+| Solana | $102.31 | 🟢 +1.40% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 399,612 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 393,246 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 306,857 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 305,225 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 291,268 |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 402,090 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 393,293 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 307,352 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 305,703 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 291,683 |
 
 ---
 
 ### 🎲 Fun Fact
-Lee Harvey Oswald's cadaver tag sold at an auction for $6,600 in 1992.
+14% of all facts and statistics are made up and 27% of people know that fact.
 
 ---
 
-*Last updated: 2026-10-28 10:19 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-10-28 21:32 UTC · [See all daily snapshots](data/)*
