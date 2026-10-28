@@ -8,3 +8,4 @@
 2026-10-28T21:30:08+00:00  seq=008/012  update snapshot
 2026-10-28T21:30:08+00:00  seq=009/012  refresh cached feed
 2026-10-28T21:30:08+00:00  seq=010/012  update snapshot
+2026-10-28T21:30:08+00:00  seq=011/012  prune stale entries
