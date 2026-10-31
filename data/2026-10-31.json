@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-10-31 08:15 UTC",
+  "astronomy_picture_of_the_day": {
+    "error": "unavailable"
+  },
+  "trending_github_repos": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 413327,
+      "language": "TypeScript",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 393507,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 309616,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 307723,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 293577,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "The greatest value of a picture is when it forces us to notice what we never expected to see.",
+    "author": "John Tukey"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 77257,
+      "change_24h": -0.96
+    },
+    "ethereum": {
+      "usd": 2243.7,
+      "change_24h": 0.64
+    },
+    "solana": {
+      "usd": 95.65,
+      "change_24h": -1.51
+    }
+  },
+  "fun_fact": "Donald Duck comics were banned from Finland because he doesn`t wear pants!"
+}
