@@ -1,0 +1,62 @@
+{
+  "fetched_at": "2026-11-01 21:39 UTC",
+  "astronomy_picture_of_the_day": {
+    "error": "unavailable"
+  },
+  "trending_github_repos": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 418415,
+      "language": "TypeScript",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 393635,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 310579,
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 309180,
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
+      "stars": 294733,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    }
+  ],
+  "quote_of_the_day": {
+    "text": "If you want something new, you have to stop doing something old.",
+    "author": "Peter Drucker"
+  },
+  "crypto_prices": {
+    "bitcoin": {
+      "usd": 77849,
+      "change_24h": 0.55
+    },
+    "ethereum": {
+      "usd": 2264.46,
+      "change_24h": 0.57
+    },
+    "solana": {
+      "usd": 94.43,
+      "change_24h": -1.35
+    }
+  },
+  "fun_fact": "There were always 56 curls in Shirley Temple`s hair."
+}
