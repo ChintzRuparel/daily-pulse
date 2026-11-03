@@ -2,44 +2,44 @@
 
 > Auto-updated every day at 07:00 UTC via GitHub Actions. No manual work needed.
 
-## 📅 Latest snapshot — 2026-11-01
+## 📅 Latest snapshot — 2026-11-03
 
 ### 🔭 NASA Astronomy Picture of the Day
-**N/A**
-
-[View full image →](#)
+**NASA Science**
+ Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France in April when the giant space iceberg s…
+[View full image →](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
 ---
 
 ### 💬 Quote of the Day
-> *"If you want something new, you have to stop doing something old."*
-> — Peter Drucker
+> *"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."*
+> — Richard Bach
 
 ---
 
 ### ₿ Crypto Snapshot
 | Coin | Price (USD) | 24h Change |
 |------|------------|-----------|
-| Bitcoin | $77,849 | 🟢 +0.55% |
-| Ethereum | $2,264.46 | 🟢 +0.57% |
-| Solana | $94.43 | 🔴 -1.35% |
+| Bitcoin | $76,682 | 🔴 -1.93% |
+| Ethereum | $2,259.05 | 🔴 -1.65% |
+| Solana | $92.03 | 🔴 -2.82% |
 
 ---
 
 ### 📈 Trending GitHub Repos
 | Repo | Language | ⭐ Stars |
 |------|----------|---------|
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 418,415 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 393,635 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 310,579 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 309,180 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 294,733 |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 424,539 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 393,794 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 311,444 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 310,654 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 295,980 |
 
 ---
 
 ### 🎲 Fun Fact
-There were always 56 curls in Shirley Temple`s hair.
+Ingrown toenails are hereditary.  
 
 ---
 
-*Last updated: 2026-11-01 21:39 UTC · [See all daily snapshots](data/)*
+*Last updated: 2026-11-03 09:17 UTC · [See all daily snapshots](data/)*
