@@ -1,66 +1,62 @@
 {
-  "fetched_at": "2026-11-03 09:17 UTC",
+  "fetched_at": "2026-11-03 17:30 UTC",
   "astronomy_picture_of_the_day": {
-    "date": "2026-11-03",
-    "title": "NASA Science",
-    "explanation": " Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France in April when the giant space iceberg s…",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
+    "error": "unavailable"
   },
   "trending_github_repos": [
     {
       "name": "morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 424539,
+      "stars": 426166,
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
     },
     {
       "name": "openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 393794,
+      "stars": 393838,
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 311444,
+      "stars": 311721,
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 310654,
+      "stars": 311122,
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f",
-      "stars": 295980,
+      "stars": 296319,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     }
   ],
   "quote_of_the_day": {
-    "text": "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
-    "author": "Richard Bach"
+    "text": "The greater the impact you want to make, the greater your influence needs to be.",
+    "author": "Lolly Daskal"
   },
   "crypto_prices": {
     "bitcoin": {
-      "usd": 76682,
-      "change_24h": -1.93
+      "usd": 77609,
+      "change_24h": 0.67
     },
     "ethereum": {
-      "usd": 2259.05,
-      "change_24h": -1.65
+      "usd": 2295.25,
+      "change_24h": 1.77
     },
     "solana": {
-      "usd": 92.03,
-      "change_24h": -2.82
+      "usd": 93.31,
+      "change_24h": 0.62
     }
   },
-  "fun_fact": "Ingrown toenails are hereditary.  "
+  "fun_fact": "Camels have three eyelids to protect themselves from blowing sand."
 }
