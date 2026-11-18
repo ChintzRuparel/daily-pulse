@@ -2,8 +2,7 @@ name: 🌍 Daily Pulse
 
 on:
   schedule:
-    # Fires every hour — the Python randomizer decides if this hour actually commits
-    - cron: "0 * * * *"
+    - cron: "17 9,14,19 * * *"   # 3 runs/day instead of 24
   workflow_dispatch:
 
 permissions:
