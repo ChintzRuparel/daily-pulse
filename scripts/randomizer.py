@@ -48,7 +48,7 @@ if schedule is None:
         num_commits = max(1, num_commits)  # at least 1 on active days
 
         # Pick realistic hours (weighted: more activity 8am-10pm UTC = 3am-5pm NYC)
-        hour_pool = list(range(8, 23))
+        hour_pool = [9, 14, 19]   # was list(range(8, 23))
         commit_hours = sorted(rng.sample(hour_pool, min(num_commits, len(hour_pool))))
 
     schedule = {"date": TODAY, "skip": is_skip_day, "commit_hours": commit_hours}
