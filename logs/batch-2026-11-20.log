@@ -11,3 +11,4 @@
 2026-11-20T19:07:00+00:00  seq=001/011  refresh cached feed
 2026-11-20T19:07:00+00:00  seq=002/011  prune stale entries
 2026-11-20T19:07:00+00:00  seq=003/011  recompute daily rollup
+2026-11-20T19:07:00+00:00  seq=004/011  recompute daily rollup
