@@ -12,3 +12,4 @@
 2026-11-25T14:14:56+00:00  seq=012/015  update snapshot
 2026-11-25T14:14:56+00:00  seq=013/015  routine data fetch
 2026-11-25T14:14:56+00:00  seq=014/015  prune stale entries
+2026-11-25T14:14:56+00:00  seq=015/015  refresh cached feed
