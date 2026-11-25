@@ -5,3 +5,4 @@
 2026-11-25T14:14:56+00:00  seq=005/015  routine data fetch
 2026-11-25T14:14:56+00:00  seq=006/015  sync upstream values
 2026-11-25T14:14:56+00:00  seq=007/015  recompute daily rollup
+2026-11-25T14:14:56+00:00  seq=008/015  update snapshot
